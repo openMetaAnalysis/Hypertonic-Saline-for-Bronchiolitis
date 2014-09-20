@@ -30,7 +30,7 @@ bronchiolitis. Int J Immunopathol Pharmacol. 2012 Apr-Jun;25(2):485-91. PMID: [2
 Mar;8(3):169-73. PMID: [16599051](http://pubmed.gov/16599051).
 7. Mandelberg A, Tal G, Witzling M, Someck E, Houri S, Balin A, Priel IE. Nebulized 3% hypertonic saline solution treatment in hospitalized infants with viral bronchiolitis. Chest. 2003 Feb;123(2):481-7. PMID: [12576370](http://pubmed.gov/12576370).
 
-####Trials excluded
-2. Florin TA, Shaw KN, Kittick M, Yakscoe S, Zorc JJ. Nebulized hypertonic saline for bronchiolitis in the emergency department: a randomized clinical trial. JAMA Pediatr. 2014 Jul;168(7):664-70. doi: 10.1001/jamapediatrics.2013.5306. PMID: [24862342](http://pubmed.gov/24862342).
+####Trials excluded - selected list of important trials
+2. Florin TA, Shaw KN, Kittick M, Yakscoe S, Zorc JJ. Nebulized hypertonic saline for bronchiolitis in the emergency department: a randomized clinical trial. JAMA Pediatr. 2014 Jul;168(7):664-70. PMID: [24862342](http://pubmed.gov/24862342).
   * Reason for exclusion: Did not study length of stay.
 
