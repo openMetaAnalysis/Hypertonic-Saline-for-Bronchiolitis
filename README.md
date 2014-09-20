@@ -33,4 +33,5 @@ Mar;8(3):169-73. PMID: [16599051](http://pubmed.gov/16599051).
 ####Trials excluded - selected list of important trials
 2. Florin TA, Shaw KN, Kittick M, Yakscoe S, Zorc JJ. Nebulized hypertonic saline for bronchiolitis in the emergency department: a randomized clinical trial. JAMA Pediatr. 2014 Jul;168(7):664-70. PMID: [24862342](http://pubmed.gov/24862342).
   * Reason for exclusion: Did not study length of stay.
+  * Comments: only gave one dose of hypertonic saline. Baseline variables favored the control group.
 
