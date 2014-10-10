@@ -5,7 +5,7 @@ This repository contains the [source data](../../tree/master/data) and matching 
 
 This meta-analysis suggests that the clinical intervention *is* effective.
 
-Details of the studies included are in the [evidence table](../../wiki/Evidence-Table). Rationale for studies excluded may be listed at the end of the references below.
+Details of the studies included are in the [evidence table](../../wiki/Evidence-Table) and [risk of bias assessment](../../wiki/Risk-of-bias-assessment). Rationale for studies excluded may be listed at the end of the references below.
 
 ![alt text](https://raw.githubusercontent.com/openMetaAnalysis/Hypertonic-Saline-for-Bronchiolitis/master/forest%20plots/all%20trials.png "Principle results")
 
