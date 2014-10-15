@@ -8,10 +8,10 @@ This meta-analysis suggests that the clinical intervention *is* effective.
 Details of the studies included are in the [evidence table](../../wiki/Evidence-Table) and [risk of bias assessment](../../wiki/Risk-of-bias-assessment). Rationale for studies excluded may be listed at the end of the references below.
 
 Below is the forest plot for the primary outcome.
-![alt text](https://raw.githubusercontent.com/openMetaAnalysis/Hypertonic-Saline-for-Bronchiolitis/master/forest%20plots/Outcome%20-%20Primary.png "Principle results")
+![Image of forest plot of primary outcome](https://raw.githubusercontent.com/openMetaAnalysis/Hypertonic-Saline-for-Bronchiolitis/master/forest%20plots/Outcome%20-%20Primary.png "Principle results")
 
 Below is the forest plot for the secondary outcome.
-![alt text](https://raw.githubusercontent.com/openMetaAnalysis/Hypertonic-Saline-for-Bronchiolitis/master/forest%20plots/Outcome%20-%20Secondary%20-%20Respiratory%20Distress%20Assessment%20Instrument%20(RDAI).png "Principle results")
+![Image of forest plot of secondary  outcome](https://raw.githubusercontent.com/openMetaAnalysis/Hypertonic-Saline-for-Bronchiolitis/master/forest%20plots/Outcome%20-%20Secondary%20-%20Respiratory%20Distress%20Assessment%20Instrument%20(RDAI).png "Principle results")
 
 References:
 ----------------------------------
