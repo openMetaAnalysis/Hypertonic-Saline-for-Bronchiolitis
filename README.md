@@ -1,17 +1,20 @@
 Hypertonic Saline for Bronchiolitis
 =================================
 
-This repository contains the [source data](../../tree/master/data) and matching [forest plots](../../tree/master/forest%20plots) for an [open  meta-analysis](https://public.opencpu.org/ocpu/github/openMetaAnalysis/home/www/) of this intervention. This repository updates a previously published meta-analysis.(1)
+This repository contains the [source data](../../tree/master/data) and matching [forest plots](../../tree/master/forest%20plots) and  [GRADE profiles](../../tree/master/GRADE%20profiles).
+ for an [open  meta-analysis](https://public.opencpu.org/ocpu/github/openMetaAnalysis/home/www/) of this intervention. This repository updates a previously published meta-analysis.(1)
 
-This meta-analysis suggests that the clinical intervention *is* effective. However, the marked [heterogenity](https://github.com/openMetaAnalysis/Administration/wiki/References) of results compromises interpretation.
+This meta-analysis suggests that the clinical intervention *is* effective. However, quality of evidence is low due to the marked [heterogenity](https://github.com/openMetaAnalysis/Administration/wiki/References) and imprecision of results.
 
 Details of the studies included are in the [evidence table](../../wiki/Evidence-Table) and [risk of bias assessment](../../wiki/Risk-of-bias-assessment). Rationale for studies excluded may be listed at the end of the references below.
 
-Below is the forest plot for the primary outcome.
+Below is the forest plot for the primary outcome. [Forest plots](../../tree/master/forest%20plots) for other outcomes are available ([Respiratory distress assessment instrument] (http://www.wikidoc.org/index.php/Respiratory_distress_assessment_instrument)).
 ![Image of forest plot of primary outcome](https://raw.githubusercontent.com/openMetaAnalysis/Hypertonic-Saline-for-Bronchiolitis/master/forest%20plots/Outcome%20-%20Primary.png "Principle results")
 
-Below is the forest plot for the secondary outcome ([Respiratory distress assessment instrument (RDAI)] (http://www.wikidoc.org/index.php/Respiratory_distress_assessment_instrument)).
-![Image of forest plot of secondary  outcome](https://raw.githubusercontent.com/openMetaAnalysis/Hypertonic-Saline-for-Bronchiolitis/master/forest%20plots/Outcome%20-%20Secondary%20-%20Respiratory%20Distress%20Assessment%20Instrument%20(RDAI).png "Principle results")
+
+Below is the GRADE Profile for the quality of primary outcome..
+![Image of GRADE Profile of primary outcome](https://raw.githubusercontent.com/openMetaAnalysis/Hypertonic-Saline-for-Bronchiolitis/master/GRADE%20profiles/Outcome%20-%20Primary.png "Principle results")
+
 
 References:
 ----------------------------------
