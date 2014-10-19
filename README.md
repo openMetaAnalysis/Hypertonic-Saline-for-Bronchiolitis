@@ -3,7 +3,7 @@ Hypertonic Saline for Bronchiolitis
 
 This repository contains the [source data](../../tree/master/data) and matching [forest plots](../../tree/master/forest%20plots) for an [open  meta-analysis](https://public.opencpu.org/ocpu/github/openMetaAnalysis/home/www/) of this intervention. This repository updates a previously published meta-analysis.(1)
 
-This meta-analysis suggests that the clinical intervention *is* effective.
+This meta-analysis suggests that the clinical intervention *is* effective. However, the marked [heterogenity](https://github.com/openMetaAnalysis/Administration/wiki/References) of results compromises interpretation.
 
 Details of the studies included are in the [evidence table](../../wiki/Evidence-Table) and [risk of bias assessment](../../wiki/Risk-of-bias-assessment). Rationale for studies excluded may be listed at the end of the references below.
 
