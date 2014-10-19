@@ -24,6 +24,9 @@ References:
 #### New trial(s) *not* included in the most recent review above
 1. Wu S, Baker C, Lang ME, Schrager SM, Liley FF, Papa C, Mira V, Balkian A, Mason WH. Nebulized hypertonic saline for bronchiolitis: a randomized clinical trial. JAMA Pediatr. 2014 Jul;168(7):657-63. PMID: [24862623](http://pubmed.gov/24862623).
 2. Florin TA, Shaw KN, Kittick M, Yakscoe S, Zorc JJ. Nebulized hypertonic saline for bronchiolitis in the emergency department: a randomized clinical trial. JAMA Pediatr. 2014 Jul;168(7):664-70. PMID: [24862342](http://pubmed.gov/24862342).
+3. Sharma BS, Gupta MK, Rafik SP. Hypertonic (3%) saline vs 0.93% saline
+nebulization for acute viral bronchiolitis: a randomized controlled trial. Indian
+Pediatr. 2013 Aug;50(8):743-7. PMID: [23502662](http://pubmed.gov/23502662).
 
 #### Trials included in the review above
 2. Miraglia Del Giudice M, Saitta F, Leonardi S, Capasso M, Niglio B, Chinellato I, Decimo F, Maiello N, Capristo C, Perrone L, Peroni D. Effectiveness of nebulized hypertonic saline and epinephrine in hospitalized infants with
