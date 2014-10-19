@@ -10,7 +10,7 @@ Details of the studies included are in the [evidence table](../../wiki/Evidence-
 Below is the forest plot for the primary outcome.
 ![Image of forest plot of primary outcome](https://raw.githubusercontent.com/openMetaAnalysis/Hypertonic-Saline-for-Bronchiolitis/master/forest%20plots/Outcome%20-%20Primary.png "Principle results")
 
-Below is the forest plot for the secondary outcome.
+Below is the forest plot for the secondary outcome ([Respiratory distress assessment instrument (RDAI)] (http://www.wikidoc.org/index.php/Respiratory_distress_assessment_instrument)).
 ![Image of forest plot of secondary  outcome](https://raw.githubusercontent.com/openMetaAnalysis/Hypertonic-Saline-for-Bronchiolitis/master/forest%20plots/Outcome%20-%20Secondary%20-%20Respiratory%20Distress%20Assessment%20Instrument%20(RDAI).png "Principle results")
 
 References:
