@@ -1,4 +1,4 @@
-Study, Year, PMID, Mean(SD), Subjects, Mean(SD), Subjects, Cofactor
+Study, Year, PMID, Mean(SD), Subjects, Mean(SD) in controls, Subjects (controls), Cofactor
 Sarrell, 2002, 12475841, 4.36(1.05), 33, 5.64(1.54), 32, Outpatients
 Al-Ansari, 2010, 20646715, 3.88(1.13), 115, 3.97(1.4), 56, Emergency Dept
 Florin, 2014, 24862342, 6.6(2.98), 31, 5.1(2.98), 31, Emergency Dept
