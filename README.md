@@ -12,7 +12,7 @@ Below is the forest plot for the primary outcome. [Forest plots](../../tree/mast
 ![Image of forest plot of primary outcome](https://raw.githubusercontent.com/openMetaAnalysis/Hypertonic-Saline-for-Bronchiolitis/master/forest%20plots/Outcome%20-%20Primary.png "Principle results")
 
 
-Below is the GRADE Profile for the quality of primary outcome..
+Below is the GRADE Profile for the quality of primary outcome.
 ![Image of GRADE Profile of primary outcome](https://raw.githubusercontent.com/openMetaAnalysis/Hypertonic-Saline-for-Bronchiolitis/master/GRADE%20profiles/Outcome%20-%20Primary.png "Principle results")
 
 
