@@ -6,7 +6,7 @@ This repository contains the [source data](../../tree/master/data) and matching 
 
 This meta-analysis suggests that the clinical intervention is not clearly effective in reducing dyspnea as measured by the [Respiratory distress assessment instrument] (http://www.wikidoc.org/index.php/Respiratory_distress_assessment_instrument) or the rate of hospitalization. However, among hospitalized infants, the treatment *is effective* for reducing length of stay. However, the quality of evidence is *very low* ([see The GRADE approach](https://github.com/openMetaAnalysis/Administration/wiki/References)) due to the small number of patients randomized ([Ioannidis & Lau, 2001](http://pubmed.gov/11158556)) and the marked [heterogenity](https://github.com/openMetaAnalysis/Administration/wiki/References) of results.
 
-Details of the studies included are in the [PICO table](../../wiki/PICO-Table) and [risk of bias assessment](../../wiki/Risk-of-bias-assessment). Rationale for studies excluded may be listed at the end of the references below.
+Details of the studies included are in the [PICO table](../../wiki/PICO-Table) and [risk of bias table](../../wiki/Risk-of-bias-table). Rationale for studies excluded may be listed at the end of the references below.
 
 Below is the forest plot for the length of stay for hospitalized infants. [Forest plots](../../tree/master/forest%20plots) for other outcomes are available ([Respiratory distress assessment instrument] (http://www.wikidoc.org/index.php/Respiratory_distress_assessment_instrument) and rate of hospitalization).
 ![Image of forest plot of primary outcome](https://raw.githubusercontent.com/openMetaAnalysis/Hypertonic-Saline-for-Bronchiolitis/master/forest%20plots/Outcome%20-%20Primary.png "Principle results")
