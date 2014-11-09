@@ -1,8 +1,7 @@
 Hypertonic Saline for Bronchiolitis
 =================================
 
-This repository contains the [source data](../../tree/master/data) and matching [forest plots](../../tree/master/forest%20plots) and  [GRADE profiles](../../tree/master/GRADE%20profiles).
- for an [open  meta-analysis](https://public.opencpu.org/ocpu/github/openMetaAnalysis/home/www/) of this intervention. This repository updates a previously published meta-analysis.(1)
+This repository contains the [source data](../../tree/master/data) and matching [forest plots](../../tree/master/forest%20plots) and  [GRADE profiles](../../tree/master/GRADE%20profiles) for an [open  meta-analysis](https://public.opencpu.org/ocpu/github/openMetaAnalysis/home/www/) of this intervention. This repository updates a previously published meta-analysis.(1)
 
 This meta-analysis suggests that the clinical intervention *is effective* among hospitalized children for reducing length of stay. Among outpatients, the interventionn *is not clearly effective* in reducing dyspnea as measured by the [Respiratory distress assessment instrument] (http://www.wikidoc.org/index.php/Respiratory_distress_assessment_instrument) or the rate of hospitalization. However, the quality of evidence is *very low* ([see methods](https://github.com/openMetaAnalysis/_Methods/blob/master/README.md)) due to imprecision of results and the marked heterogenity or inconsistency of results.
 
