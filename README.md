@@ -1,4 +1,4 @@
-Hypertonic Saline for Bronchiolitis
+Hypertonic Saline for Bronchiolitis: a living systematic review
 =================================
 
 This repository contains the [source data](../../tree/master/data) and matching [forest plots](../../tree/master/forest%20plots) and  [GRADE profiles](../../tree/master/GRADE%20profiles) for an [open  meta-analysis](https://public.opencpu.org/ocpu/github/openMetaAnalysis/home/www/) of this intervention. This repository updates a previously published meta-analysis.(1)
@@ -49,3 +49,8 @@ Jan;45(1):41-7. PMID: [19953579](http://pubmed.gov/19953579).
 11. Ipek IO, Yalcin EU, Sezer RG, Bozaykut A. The efficacy of nebulized salbutamol, hypertonic saline and salbutamol/hypertonic saline combination in moderate bronchiolitis. Pulm Pharmacol Ther. 2011 Dec;24(6):633-7. PMID: [21978929](http://pubmed.gov/21978929).
 
 ####Trials excluded - selected list of important trials
+
+####Cited by
+This repository is cited by:
+
+1. WikiDoc contributors. Bronchiolitis medical therapy. WikiDoc. Nov 9, 2014. Available at: http://www.wikidoc.org/index.php/Bronchiolitis_medical_therapy#Hypertonic_saline. Accessed November 9, 2014. 
