@@ -47,6 +47,7 @@ Jan;45(1):41-7. PMID: [19953579](http://pubmed.gov/19953579).
 11. Ipek IO, Yalcin EU, Sezer RG, Bozaykut A. The efficacy of nebulized salbutamol, hypertonic saline and salbutamol/hypertonic saline combination in moderate bronchiolitis. Pulm Pharmacol Ther. 2011 Dec;24(6):633-7. PMID: [21978929](http://pubmed.gov/21978929).
 
 ####Trials excluded - selected list of important trials
+None
 
 ####Cited by
 This repository is cited by:
