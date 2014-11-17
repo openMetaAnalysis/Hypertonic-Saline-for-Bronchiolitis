@@ -10,7 +10,7 @@ Hypertonic Saline for Bronchiolitis: a living systematic review
 Below is the forest plot for the length of stay for hospitalized infants. [Forest plots](../../tree/master/forest%20plots) for other outcomes are available ([Respiratory distress assessment instrument] (http://www.wikidoc.org/index.php/Respiratory_distress_assessment_instrument) and rate of hospitalization).
 ![Image of forest plot of primary outcome](https://raw.githubusercontent.com/openMetaAnalysis/Hypertonic-Saline-for-Bronchiolitis/master/forest%20plots/Outcome%20-%20Primary.png "Principle results")
 
-Below is the GRADE Profile for the quality of primary outcome.
+Below is the GRADE Profile for the quality of the primary outcome.
 ![Image of GRADE Profile of primary outcome](https://raw.githubusercontent.com/openMetaAnalysis/Hypertonic-Saline-for-Bronchiolitis/master/GRADE%20profiles/Outcome%20-%20Primary.png "Principle results")
 
 References:
