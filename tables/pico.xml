@@ -30,18 +30,20 @@
 			<bullet>Mean age 2.9 months</bullet>
 			<bullet>Hospitalized</bullet>
 		</patients>
-		<intervention>Hypertonic saline
+		<intervention>3% saline solution (4 ml)
 			<bullet>5 ml</bullet>
-			<bullet>With albuterol</bullet>
+			<bullet>With 1.5 mg epinephrine</bullet>
+			<bullet>Every 8 hours until discharge</bullet>
 		</intervention>
-		<comparison>Normal saline
+		<comparison>0.9% saline solution (4 ml)
 			<bullet>5 ml</bullet>
-			<bullet>With albuterol</bullet>
+			<bullet>With 1.5 mg epinephrine</bullet>
+			<bullet>Every 8 hours until discharge</bullet>
 		</comparison>
 		<outcome>
 			<bullet type="primary" url="http://www.wikidoc.org/index.php/Respiratory_distress_assessment_instrument">Respiratory distress assessment index (RDAI)</bullet>
 			<bullet type="primary">Hospitalization rate</bullet>
-			<bullet type="secondary">Respiratory rate</bullet>
+			<bullet type="primary">Respiratory rate</bullet>
 		</outcome>
 	</study>
 	<!-- Start of a new study -->
@@ -61,7 +63,7 @@
 		</comparison>
 		<outcome>
 			<bullet type="primary">Length of hospital stay</bullet>
-			<bullet type="secondary">Bronchiolitis Severity Score (PMID <a class="pmid">1731571</a>)</bullet>
+			<bullet type="primary">Bronchiolitis Severity Score (PMID <a class="pmid">1731571</a>)</bullet>
 		</outcome>
 	</study>
 	<!-- Start of a new study -->
@@ -91,15 +93,36 @@
 		</patients>
 		<intervention>3% hypertonic saline (4 ml)
 			<bullet>With 1.5 mg of epinephrine or  2.5 mg of salbutamol</bullet>
-			<bullet>Repeated once after 30 minhutes</bullet>
+			<bullet><emphasis>Repeated once</emphasis> after 30 minhutes</bullet>
 		</intervention>
 		<comparison>0.9% saline solution (4 ml)
 			<bullet>With 1.5 mg of epinephrine or  2.5 mg of salbutamol</bullet>
-			<bullet>Repeated once after 30 minhutes</bullet>
+			<bullet><emphasis>Repeated once</emphasis> after 30 minhutes</bullet>
 		</comparison>
 		<outcome>
 			<bullet type="primary">Clinical severity score</bullet>
 			<bullet type="primary">Hospitalization rate</bullet>
+		</outcome>
+	</study>
+	<!-- Start of a new study -->
+	<study>
+		<citation year="2009" pmid="19884591" journal_abbrev="J Arch Pediat">Grewal</citation>
+		<patients total="48">
+			<bullet>Mean age 5 months</bullet>
+			<bullet>Emergency department</bullet>
+		</patients>
+		<intervention>3% hypertonic saline (2.5 ml)
+			<bullet>With 0.5 ml of 2.25% racaemic epinephrine</bullet>
+			<bullet><emphasis>Repeated once if needed</emphasis> within 120 minhutes</bullet>
+		</intervention>
+		<comparison>0.9% saline solution (2.5 ml)
+			<bullet>With 0.5 ml of 2.25% racaemic epinephrine</bullet>
+			<bullet><emphasis>Repeated once if needed</emphasis> within 120 minhutes</bullet>
+		</comparison>
+		<outcome>
+			<bullet type="primary">Clinical severity score</bullet>
+			<bullet type="primary">Hospitalization rate</bullet>
+			<bullet type="secondary">Others</bullet>
 		</outcome>
 	</study>
 	<!-- Leave the last line alone -->
