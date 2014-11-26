@@ -5,7 +5,7 @@
 	<study>
 		<citation year="2002" pmid="12475841" journal_abbrev="Chest">Sarrell</citation>
 		<patients total="65">
-			<bullet><emphasis>Mean age 13 months</emphasis></bullet>
+			<bullet>Mean age 13 months</bullet>
 			<bullet>Ambulatory</bullet>
 		</patients>
 		<intervention>3% saline solution (2 ml)
@@ -71,12 +71,10 @@
 			<bullet>Mean age 4.7 months</bullet>
 			<bullet>Hospitalized</bullet>
 		</patients>
-		<intervention>Hypertonic saline
-			<bullet>3% saline solution (4 ml)</bullet>
+		<intervention>3% saline solution (4 ml)
 			<bullet>Every 2 hours for 3 doses tapered to every 6 hours until discharge</bullet>
 		</intervention>
 		<comparison>0.9% saline solution (4 ml)
-			<bullet>5 ml</bullet>
 			<bullet>Every 2 hours for 3 doses tapered to every 6 hours until discharge</bullet>
 		</comparison>
 		<outcome>
@@ -86,22 +84,22 @@
 	</study>
 	<!-- Start of a new study -->
 	<study>
-		<citation year="2007" pmid="17719935" journal_abbrev="J Pediatr">Kuzick</citation>
-		<patients total="96">
-			<bullet>Mean age 4.7 months</bullet>
-			<bullet>Hospitalized</bullet>
+		<citation year="2009" pmid="19953579" journal_abbrev="J Pediatr Pulmonol">Anil</citation>
+		<patients total="186">
+			<bullet>Mean age 9.5 months</bullet>
+			<bullet>Emergency department</bullet>
 		</patients>
-		<intervention>Hypertonic saline
-			<bullet>3% saline solution (4 ml)</bullet>
-			<bullet>Every 2 hours for 3 doses tapered to every 6 hours until discharge</bullet>
+		<intervention>3% hypertonic saline (4 ml)
+			<bullet>With 1.5 mg of epinephrine or  2.5 mg of salbutamol</bullet>
+			<bullet>Repeated once after 30 minhutes</bullet>
 		</intervention>
 		<comparison>0.9% saline solution (4 ml)
-			<bullet>5 ml</bullet>
-			<bullet>Every 2 hours for 3 doses tapered to every 6 hours until discharge</bullet>
+			<bullet>With 1.5 mg of epinephrine or  2.5 mg of salbutamol</bullet>
+			<bullet>Repeated once after 30 minhutes</bullet>
 		</comparison>
 		<outcome>
-			<bullet type="primary">Length of stay</bullet>
-			<bullet type="secondary">Others</bullet>
+			<bullet type="primary">Clinical severity score</bullet>
+			<bullet type="primary">Hospitalization rate</bullet>
 		</outcome>
 	</study>
 	<!-- Leave the last line alone -->
