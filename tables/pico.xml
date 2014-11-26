@@ -9,11 +9,11 @@
 			<bullet>Ambulatory</bullet>
 		</patients>
 		<intervention>3% saline solution (2 ml)
-			<bullet>With 5 mg (0.5 ml) terbutalin</bullet>
+			<bullet>With 5 mg (0.5 ml) terbutaline</bullet>
 			<bullet>Every 8 hours for 5 days</bullet>
 		</intervention>
 		<comparison>0.9% saline solution (2 ml)
-			<bullet>With 5 mg (0.5 ml) terbutalin</bullet>
+			<bullet>With 5 mg (0.5 ml) terbutaline</bullet>
 			<bullet>Every 8 hours for 5 days</bullet>
 		</comparison>
 		<outcome>
@@ -23,6 +23,7 @@
 		</outcome>
 	</study>
 	<!-- This is the end of the first study. Copy this block above and paste to the next of the last line of the file to add a study -->
+	<!-- Start of a new study -->
 	<study>
 		<citation year="2003" pmid="12576370" journal_abbrev="Chest">Mandelberg</citation>
 		<patients total="62">
@@ -43,8 +44,29 @@
 			<bullet type="secondary">Respiratory rate</bullet>
 		</outcome>
 	</study>
+	<!-- Start of a new study -->
 	<study>
-		<citation year="2015" pmid="33333333" journal_abbrev="New Eng J Med">Third study name</citation>
+		<citation year="2006" pmid="17719935" journal_abbrev="Isr Med Assoc J">Tai</citation>
+		<patients total="41 ">
+			<bullet>Mean age 2.6 months</bullet>
+			<bullet>Hospitalized</bullet>
+		</patients>
+		<intervention>3% saline solution (4 ml)
+			<bullet>With 1.5 mg epinephrine</bullet>
+			<bullet>Every eight hours until discharge</bullet>
+		</intervention>
+		<comparison>0.9% saline solution (4 ml)
+			<bullet>With 1.5 mg epinephrine</bullet>
+			<bullet>Every eight hours until discharge</bullet>
+		</comparison>
+		<outcome>
+			<bullet type="primary">Length of hospital stay</bullet>
+			<bullet type="secondary">Bronchiolitis Severity Score (PMID <a class="pmid">1731571</a>)</bullet>
+		</outcome>
+	</study>
+	<!-- Start of a new study -->
+	<study>
+		<citation year="2007" pmid="17719935" journal_abbrev="J Pediatr">Kuzick</citation>
 		<patients total="100">
 			<bullet>Mean age 30 years</bullet>
 			<bullet>Prior coronary diseas 30%</bullet>
@@ -63,4 +85,5 @@
 			<bullet type="secondary">Respiratory rate</bullet>
 		</outcome>
 	</study>
+	<!-- Leave the last line alone -->
 </included>
