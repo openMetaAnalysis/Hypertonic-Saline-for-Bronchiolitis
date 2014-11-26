@@ -146,5 +146,24 @@
 			<bullet type="secondary">Others</bullet>
 		</outcome>
 	</study>
+	<!-- Start of a new study -->
+	<study>
+		<citation year="2010" pmid="19674354" journal_abbrev="Pediatr Int">Luo</citation>
+		<patients total="126">
+			<bullet>Mean age 5.9 months</bullet>
+			<bullet>Hospitalized</bullet>
+		</patients>
+		<intervention>3% hypertonic saline (4 ml)
+			<bullet>Every 2 hours for 3 doses tapered to every 6 hours until discharge</bullet>
+		</intervention>
+		<comparison>0.9% normal saline (4 ml)
+			<bullet>Every 2 hours for 3 doses tapered to every 6 hours until discharge</bullet>
+		</comparison>
+		<outcome>
+			<bullet type="primary">Clinical severity score</bullet>
+			<bullet type="primary">Length of hospital stay</bullet>
+			<bullet type="secondary">Others</bullet>
+		</outcome>
+	</study>
 	<!-- Leave the last line alone -->
 </included>
