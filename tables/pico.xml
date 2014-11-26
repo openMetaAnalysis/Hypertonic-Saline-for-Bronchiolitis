@@ -92,11 +92,11 @@
 			<bullet>Emergency department</bullet>
 		</patients>
 		<intervention>3% hypertonic saline (4 ml)
-			<bullet>With 1.5 mg of epinephrine or  2.5 mg of salbutamol</bullet>
+			<bullet>With 1.5 mg of epinephrine or 2.5 mg of salbutamol</bullet>
 			<bullet><emphasis>Repeated once</emphasis> after 30 minutes</bullet>
 		</intervention>
 		<comparison>0.9% saline solution (4 ml)
-			<bullet>With 1.5 mg of epinephrine or  2.5 mg of salbutamol</bullet>
+			<bullet>With 1.5 mg of epinephrine or 2.5 mg of salbutamol</bullet>
 			<bullet><emphasis>Repeated once</emphasis> after 30 minutes</bullet>
 		</comparison>
 		<outcome>
@@ -183,6 +183,27 @@
 		<outcome>
 			<bullet type="primary">Clinical severity score</bullet>
 			<bullet type="primary">Length of hospital stay</bullet>
+			<bullet type="secondary">Others</bullet>
+		</outcome>
+	</study>
+	<!-- Start of a new study -->
+	<study>
+		<citation year="2011" pmid="21978929" journal_abbrev="Pulm Pharmacol Ther">Ipek</citation>
+		<patients total="120">
+			<bullet>Mean age 8.0 months</bullet>
+			<bullet>Emergency Department</bullet>
+		</patients>
+		<intervention>3% hypertonic saline (4 ml)
+			<bullet>With or without salbutamol 0.15 mg/kg</bullet>
+			<bullet>Every 20 minutes for <emphasis>three total doses</emphasis></bullet>
+		</intervention>
+		<comparison>0.9% normal saline (4 ml)
+			<bullet>With or without salbutamol 0.15 mg/kg</bullet>
+			<bullet>Every 20 minutes for <emphasis>three total doses</emphasis></bullet>
+		</comparison>
+		<outcome>
+			<bullet type="primary">Clinical severity score</bullet>
+			<bullet type="primary">Hospitalizaton rate</bullet>
 			<bullet type="secondary">Others</bullet>
 		</outcome>
 	</study>
