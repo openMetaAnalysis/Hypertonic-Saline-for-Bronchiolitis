@@ -252,18 +252,60 @@
 			<bullet>Mean age 4.5 months</bullet>
 			<bullet>Hospitalized</bullet>
 		</patients>
-		<intervention>7% hypertonic saline (3 ml)
+		<intervention><emphasis>7% hypertonic saline (3 ml)</emphasis>
 			<bullet>With 0.5 mL 2.25% racemic epinephrine</bullet>
-			<bullet>Every 4 hours until discharge</bullet>
+			<bullet>Every 6 hours until discharge</bullet>
 		</intervention>
 		<comparison>0.9% normal saline (3 ml)
 			<bullet>With 0.5 mL 2.25% racemic epinephrine</bullet>
-			<bullet>Every 4 hours until discharge</bullet>
+			<bullet>Every 6 hours until discharge</bullet>
 		</comparison>
 		<outcome>
 			<bullet type="primary">Clinical severity score</bullet>
 			<bullet type="secondary">Hospitalization rate</bullet>
 			<bullet type="secondary">Length of hospital stay</bullet>
+		</outcome>
+	</study>
+	<!-- Start of a new study -->
+	<study>
+		<citation year="2014" pmid="24862623" journal_abbrev="JAMA Pediatr">Wu</citation>
+		<patients total="447">
+			<bullet>Mean age 6.5 months</bullet>
+			<bullet>Emergency department</bullet>
+		</patients>
+		<intervention>3% hypertonic saline (4 ml)
+			<bullet>With albuterol sulfate</bullet>
+			<bullet>Every 8 hours until discharge</bullet>
+		</intervention>
+		<comparison>0.9% normal saline (4 ml)
+			<bullet>With albuterol sulfate</bullet>
+			<bullet>Every 8 hours until discharge</bullet>
+		</comparison>
+		<outcome>
+			<bullet type="primary">Hospitalization rate</bullet>
+			<bullet type="secondary">Length of hospital stay</bullet>
+			<bullet type="secondary">Respiratory Distress Assessment Instrument</bullet>
+		</outcome>
+	</study>
+	<!-- Start of a new study -->
+	<study>
+		<citation year="2014" pmid="24862342" journal_abbrev="JAMA Pediatr">Florin</citation>
+		<patients total="62">
+			<bullet>Mean age 6.5 months</bullet>
+			<bullet>Emergency department</bullet>
+		</patients>
+		<intervention>3% hypertonic saline (4 ml)
+			<bullet>With albuterol sulfate</bullet>
+			<bullet><emphasis>Single dose</emphasis></bullet>
+		</intervention>
+		<comparison>0.9% normal saline (4 ml)
+			<bullet>With albuterol sulfate</bullet>
+			<bullet><emphasis>Single dose</emphasis></bullet>
+		</comparison>
+		<outcome>
+			<bullet type="primary">Respiratory Distress Assessment Instrument</bullet>
+			<bullet type="secondary">Hospitalization rate</bullet>
+			<bullet type="secondary">Others</bullet>
 		</outcome>
 	</study>
 	<!-- Leave the last line alone -->
