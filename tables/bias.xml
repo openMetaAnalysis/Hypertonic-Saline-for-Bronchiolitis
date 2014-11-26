@@ -33,4 +33,135 @@
 <selective_reporting>Low risk</selective_reporting>
 <other_biases>Low risk</other_biases>
 </study>
+<!-- start of a new study -->
+<study>
+<citation year="2007" pmid="17719935" journal_abbrev="J Pediatr">Kizick</citation>
+<randomization>Low risk</randomization>
+<allocation>Low risk</allocation>
+<blinding_people>Low risk</blinding_people>
+<blinding_assessment>Low risk</blinding_assessment>
+<attrition>Low risk</attrition>
+<selective_reporting>Low risk</selective_reporting>
+<other_biases>Low risk</other_biases>
+</study>
+<!-- start of a new study -->
+<study>
+<citation year="2009" pmid="19953579" journal_abbrev="J Pediatr Pulmonol">Anil</citation>
+<randomization>Low risk</randomization>
+<allocation>Low risk</allocation>
+<blinding_people>Low risk</blinding_people>
+<blinding_assessment>Low risk</blinding_assessment>
+<attrition>Low risk</attrition>
+<selective_reporting>Low risk</selective_reporting>
+<other_biases>Low risk</other_biases>
+</study>
+<!-- start of a new study -->
+<study>
+<citation year="2009" pmid="19884591" journal_abbrev="J Arch Pediatr">Grewal</citation>
+<randomization>Low risk</randomization>
+<allocation>Low risk</allocation>
+<blinding_people>Low risk</blinding_people>
+<blinding_assessment>Low risk</blinding_assessment>
+<attrition>Low risk</attrition>
+<selective_reporting>Low risk</selective_reporting>
+<other_biases>Low risk</other_biases>
+<!-- start of a new study -->
+<study>
+<citation year="2010" pmid="20646715" journal_abbrev="J Pediatr">El Ansari</citation>
+<randomization>Low risk</randomization>
+<allocation>Low risk</allocation>
+<blinding_people>Low risk</blinding_people>
+<blinding_assessment>Low risk</blinding_assessment>
+<attrition>Low risk</attrition>
+<selective_reporting>Low risk</selective_reporting>
+<other_biases>Low risk</other_biases>
+<!-- start of a new study -->
+<study>
+<citation year="2010" pmid="19674354" journal_abbrev="Pediatr Int">Luo</citation>
+<randomization>High risk</randomization>
+<allocation>High risk</allocation>
+<blinding_people>Unclear risk</blinding_people>
+<blinding_assessment>Unclear risk</blinding_assessment>
+<attrition>Low risk</attrition>
+<selective_reporting>Low risk</selective_reporting>
+<other_biases>Low risk</other_biases>
+</study>
+<!-- start of a new study -->
+<study>
+<citation year="2011" pmid="20636429" journal_abbrev="Clin Microbiol Infect">Luo</citation>
+<randomization>Low risk</randomization>
+<allocation>Low risk</allocation>
+<blinding_people>Low risk</blinding_people>
+<blinding_assessment>Low risk</blinding_assessment>
+<attrition>Low risk</attrition>
+<selective_reporting>Low risk</selective_reporting>
+<other_biases>Low risk</other_biases>
+</study>
+<!-- start of a new study -->
+<study>
+<citation year="2011" pmid="21978929" journal_abbrev="Pulm Pharmacol Ther">Ipek</citation>
+<randomization>High risk</randomization>
+<allocation>High risk</allocation>
+<blinding_people>Unclear risk</blinding_people>
+<blinding_assessment>Unclear risk</blinding_assessment>
+<attrition>Low risk</attrition>
+<selective_reporting>Low risk</selective_reporting>
+<other_biases>Low risk</other_biases>
+</study>
+<!-- start of a new study -->
+<study>
+<citation year="2012" pmid="22697080" journal_abbrev="Int J Immunopathol Pharmacol">Miraglia Del Giudice</citation>
+<randomization>Low risk</randomization>
+<allocation>Unclear risk</allocation>
+<blinding_people>Low risk</blinding_people>
+<blinding_assessment>Low risk</blinding_assessment>
+<attrition>Low risk</attrition>
+<selective_reporting>Low risk</selective_reporting>
+<other_biases>Low risk</other_biases>
+</study>
+<!-- start of a new study -->
+<study>
+<citation year="2013" pmid="23502662" journal_abbrev="Indian Pediatr">Sharma</citation>
+<randomization>Low risk</randomization>
+<allocation>Unclear risk*</allocation>
+<blinding_people>Unclear risk*</blinding_people>
+<blinding_assessment>Low risk</blinding_assessment>
+<attrition>Low risk</attrition>
+<selective_reporting>Low risk</selective_reporting>
+<other_biases>Low risk</other_biases>
+</study>
+<!-- start of a new study -->
+<study>
+<citation year="2014" pmid="24344111" journal_abbrev="Pediatrics">Jacobs</citation>
+<randomization>Low risk</randomization>
+<allocation>Low risk*</allocation>
+<blinding_people>Low risk*</blinding_people>
+<blinding_assessment>Low risk</blinding_assessment>
+<attrition>Low risk</attrition>
+<selective_reporting>Low risk</selective_reporting>
+<other_biases>Unclear risk</other_biases>
+</study>
+<!-- start of a new study -->
+<study>
+<citation year="2014" pmid="24862623" journal_abbrev="JAMA Pediatrl">Wu</citation>
+<randomization>Low risk</randomization>
+<allocation>Low risk*</allocation>
+<blinding_people>Low risk*</blinding_people>
+<blinding_assessment>Low risk</blinding_assessment>
+<attrition>Low risk</attrition>
+<selective_reporting>Low risk</selective_reporting>
+<other_biases>Low risk</other_biases>
+</study>
+<!-- start of a new study -->
+<study>
+<citation year="2014" pmid="24862342" journal_abbrev="JAMA Pediatrl">Florin</citation>
+<randomization>Low risk</randomization>
+<allocation>Low risk*</allocation>
+<blinding_people>Low risk*</blinding_people>
+<blinding_assessment>Low risk</blinding_assessment>
+<attrition>Low risk</attrition>
+<selective_reporting>Low risk</selective_reporting>
+<other_biases>Low risk</other_biases>
+</study>
+<!-- Leave this bottom line -->
 </included>
