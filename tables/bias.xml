@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <included>
 <study>
-<citation year="2002" pmid="11111111" journal_abbrev="Chest">Sarrell</citation>
+<!-- start of a new study -->
+<citation year="2002" pmid="12475841" journal_abbrev="Chest">Sarrell</citation>
 <randomization>Low risk</randomization>
 <allocation>Low risk</allocation>
 <blinding_people>Low risk</blinding_people>
@@ -10,6 +11,7 @@
 <selective_reporting>Low risk</selective_reporting>
 <other_biases>Low risk</other_biases>
 </study>
+<!-- start of a new study -->
 <study>
 <citation year="2003" pmid="12576370" journal_abbrev="Chest">Mandelberg</citation>
 <randomization>Unclear risk</randomization>
@@ -19,5 +21,16 @@
 <attrition>Unclear risk</attrition>
 <selective_reporting>Unclear risk</selective_reporting>
 <other_biases>Unclear risk</other_biases>
+</study>
+<!-- start of a new study -->
+<study>
+<citation year="2006" pmid="16599051" journal_abbrev="Isr Med Assoc J">Tai</citation>
+<randomization>Low risk</randomization>
+<allocation>Low risk</allocation>
+<blinding_people>Low risk</blinding_people>
+<blinding_assessment>Low risk</blinding_assessment>
+<attrition>Low risk</attrition>
+<selective_reporting>Low risk</selective_reporting>
+<other_biases>Low risk</other_biases>
 </study>
 </included>
