@@ -31,12 +31,10 @@
 			<bullet>Hospitalized</bullet>
 		</patients>
 		<intervention>3% saline solution (4 ml)
-			<bullet>5 ml</bullet>
 			<bullet>With 1.5 mg epinephrine</bullet>
 			<bullet>Every 8 hours until discharge</bullet>
 		</intervention>
 		<comparison>0.9% saline solution (4 ml)
-			<bullet>5 ml</bullet>
 			<bullet>With 1.5 mg epinephrine</bullet>
 			<bullet>Every 8 hours until discharge</bullet>
 		</comparison>
@@ -245,6 +243,27 @@
 		<outcome>
 			<bullet type="primary">Clinical severity score</bullet>
 			<bullet type="primary">Length of hospital stay</bullet>
+		</outcome>
+	</study>
+	<!-- Start of a new study -->
+	<study>
+		<citation year="2014" pmid="24344111" journal_abbrev="Pediatrics">Jacobs</citation>
+		<patients total="101">
+			<bullet>Mean age 4.5 months</bullet>
+			<bullet>Hospitalized</bullet>
+		</patients>
+		<intervention>7% hypertonic saline (3 ml)
+			<bullet>With 0.5 mL 2.25% racemic epinephrine</bullet>
+			<bullet>Every 4 hours until discharge</bullet>
+		</intervention>
+		<comparison>0.9% normal saline (3 ml)
+			<bullet>With 0.5 mL 2.25% racemic epinephrine</bullet>
+			<bullet>Every 4 hours until discharge</bullet>
+		</comparison>
+		<outcome>
+			<bullet type="primary">Clinical severity score</bullet>
+			<bullet type="secondary">Hospitalization rate</bullet>
+			<bullet type="secondary">Length of hospital stay</bullet>
 		</outcome>
 	</study>
 	<!-- Leave the last line alone -->
