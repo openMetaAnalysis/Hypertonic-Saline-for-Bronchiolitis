@@ -216,11 +216,31 @@
 		</patients>
 		<intervention>3% hypertonic saline (unclear dose)
 			<bullet>With 1.5 mg of epinephrine</bullet>
-			<bullet>Every 20 minutes for <emphasis>three total doses</emphasis></bullet>
+			<bullet>Every 6 hours until discharge</bullet>
 		</intervention>
 		<comparison>0.9% normal saline (unclear dose)
 			<bullet>With 1.5 mg of epinephrine</bullet>
-			<bullet>Every 6 hours until discharge</emphasis></bullet>
+			<bullet>Every 6 hours until discharge</bullet>
+		</comparison>
+		<outcome>
+			<bullet type="primary">Clinical severity score</bullet>
+			<bullet type="primary">Length of hospital stay</bullet>
+		</outcome>
+	</study>
+	<!-- Start of a new study -->
+	<study>
+		<citation year="2013" pmid="23502662" journal_abbrev="Indian Pediatr">Sharma</citation>
+		<patients total="109">
+			<bullet>Mean age 4.5 months</bullet>
+			<bullet>Hospitalized</bullet>
+		</patients>
+		<intervention>3% hypertonic saline (4 ml)
+			<bullet>With 2.5 mg salbutamol</bullet>
+			<bullet>Every 4 hours until discharge</bullet>
+		</intervention>
+		<comparison>0.9% normal saline (4 ml)
+			<bullet>With 2.5 mg salbutamol</bullet>
+			<bullet>Every 4 hours until discharge</bullet>
 		</comparison>
 		<outcome>
 			<bullet type="primary">Clinical severity score</bullet>
