@@ -19,7 +19,7 @@
 		<outcome>
 			<bullet type="primary">Bronchiolitis Severity Score (PMID <a href="http://pubmed.gov/1731571">1731571</a>)</bullet>
 			<bullet type="primary">Hospitalization rate</bullet>
-			<bullet type="secondary">Other outcomes</bullet>
+			<bullet type="secondary">Others</bullet>
 		</outcome>
 	</study>
 	<!-- This is the end of the first study. Copy this block above and paste to the next of the last line of the file to add a study -->
