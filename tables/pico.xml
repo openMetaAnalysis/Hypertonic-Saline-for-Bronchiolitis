@@ -3,31 +3,31 @@
 <!-- Surroung text with <emphasis> tag (see example below) for details that you think are so important they affected how a study compares to other studies. Be sparing in this. -->
 	<!-- Add or substract studies as needed. This is the start of one study -->
 	<study>
-		<citation year="2000" pmid="11111111" journal_abbrev="New Eng J Med">First study name</citation>
-		<patients total="100">
-			<bullet><emphasis>Mean age 10 years</emphasis></bullet>
-			<bullet>Prior coronary diseas 30%</bullet>
+		<citation year="2002" pmid="12475841" journal_abbrev="Chest">Sarrell</citation>
+		<patients total="65">
+			<bullet><emphasis>Mean age 13 months</emphasis></bullet>
+			<bullet>Ambulatory</bullet>
 		</patients>
-		<intervention>Hypertonic saline
-			<bullet>5 ml</bullet>
-			<bullet>With albuterol</bullet>
+		<intervention>3% saline solution (2 ml)
+			<bullet>With 5 mg (0.5 ml) terbutalin</bullet>
+			<bullet>Every 8 hours for 5 days</bullet>
 		</intervention>
-		<comparison>Normal saline
-			<bullet>5 ml</bullet>
-			<bullet>With albuterol</bullet>
+		<comparison>0.9% saline solution (2 ml)
+			<bullet>With 5 mg (0.5 ml) terbutalin</bullet>
+			<bullet>Every 8 hours for 5 days</bullet>
 		</comparison>
 		<outcome>
-			<bullet type="primary" url="http://www.wikidoc.org/index.php/Respiratory_distress_assessment_instrument">Respiratory distress assessment index (RDAI)</bullet>
+			<bullet type="primary">Bronchiolitis Severity Score (PMID <a class="pmid">1731571</a>)</bullet>
 			<bullet type="primary">Hospitalization rate</bullet>
-			<bullet type="secondary">Respiratory rate</bullet>
+			<bullet type="secondary">Other outcomes</bullet>
 		</outcome>
 	</study>
 	<!-- This is the end of the first study. Copy this block above and paste to the next of the last line of the file to add a study -->
 	<study>
-		<citation year="2010" pmid="22222" journal_abbrev="New Eng J Med">Second study name</citation>
-		<patients total="100">
-			<bullet>Mean age 30 years</bullet>
-			<bullet>Prior coronary diseas 30%</bullet>
+		<citation year="2003" pmid="12576370" journal_abbrev="Chest">Mandelberg</citation>
+		<patients total="62">
+			<bullet>Mean age 2.9 months</bullet>
+			<bullet>Hospitalized</bullet>
 		</patients>
 		<intervention>Hypertonic saline
 			<bullet>5 ml</bullet>
