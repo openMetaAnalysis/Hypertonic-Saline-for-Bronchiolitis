@@ -254,11 +254,11 @@
 		</patients>
 		<intervention><emphasis>7% hypertonic saline (3 ml)</emphasis>
 			<bullet>With 0.5 mL 2.25% racemic epinephrine</bullet>
-			<bullet>Every 6 hours until discharge</bullet>
+			<bullet><emphasis>Single dose</emphasis> prior to repeat assessment and hospitalization decision; however continued every six hours until discharge</bullet>
 		</intervention>
 		<comparison>0.9% normal saline (3 ml)
 			<bullet>With 0.5 mL 2.25% racemic epinephrine</bullet>
-			<bullet>Every 6 hours until discharge</bullet>
+			<bullet><emphasis>Single dose</emphasis> prior to repeat assessment and hospitalization decision; however continued every six hours until discharge</bullet>
 		</comparison>
 		<outcome>
 			<bullet type="primary">Clinical severity score</bullet>
@@ -296,11 +296,11 @@
 		</patients>
 		<intervention>3% hypertonic saline (4 ml)
 			<bullet>With albuterol sulfate</bullet>
-			<bullet><emphasis>Single dose</emphasis> prior to repeat assessment and hospitalization decision; however contineud every six hours until discharge</bullet>
+			<bullet><emphasis>Single dose</emphasis> prior to repeat assessment and hospitalization decision; however continued every six hours until discharge</bullet>
 		</intervention>
 		<comparison>0.9% normal saline (4 ml)
 			<bullet>With albuterol sulfate</bullet>
-			<bullet><emphasis>Single dose</emphasis> prior to repeat assessment and hospitalization decision; however contineud every six hours until discharge</bullet>
+			<bullet><emphasis>Single dose</emphasis> prior to repeat assessment and hospitalization decision; however continued every six hours until discharge</bullet>
 		</comparison>
 		<outcome>
 			<bullet type="primary">Respiratory Distress Assessment Instrument</bullet>
