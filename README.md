@@ -5,7 +5,7 @@ Hypertonic Saline for Bronchiolitis: a living systematic review
 
 **Methods overview:** This repository contains the [source data](../../tree/master/data), matching [forest plots](../../tree/master/forest%20plots) and  [GRADE profiles](../../tree/master/GRADE%20profiles) for an [open  MetaAnalysis](https://openMetaAnalysis) of this intervention. This repository updates a previously published meta-analysis.(1) Newer trials included are listed below in the references. Rationale for newer trials excluded may be listed at the end of the references.  See [methods](https://github.com/openMetaAnalysis/_Methods/blob/master/README.md) for details.
 
-**Results:** Details of the studies included are in the [PICO table](../../wiki/PICO-Table) and [risk of bias table](../../wiki/Risk-of-bias-table). 
+**Results:** Details of the studies included are in the [PICO table](http://openmetaanalysis.github.io/Hypertonic-Saline-for-Bronchiolitis/table-pico.html) and [risk of bias table](http://openmetaanalysis.github.io/Hypertonic-Saline-for-Bronchiolitis/table-bias.html). 
 
 Below is the forest plot for the length of stay for hospitalized infants. [Forest plots](../../tree/master/forest%20plots) for other outcomes are available ([Respiratory distress assessment instrument] (http://www.wikidoc.org/index.php/Respiratory_distress_assessment_instrument) and rate of hospitalization).
 ![Image of forest plot of primary outcome](https://raw.githubusercontent.com/openMetaAnalysis/Hypertonic-Saline-for-Bronchiolitis/master/forest%20plots/Outcome%20-%20Primary.png "Principle results")
