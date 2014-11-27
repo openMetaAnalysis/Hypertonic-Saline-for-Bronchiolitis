@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <included>
-<!-- Surroung text with <emphasis> tag (see example below) for details that you think are so important they affected how a study compares to other studies. Be sparing in this. -->
+<!-- Surround text with <emphasis> tag (see example below) for details that you think are so important they affected how a study compares to other studies. Be sparing in this. -->
 	<!-- Add or substract studies as needed. This is the start of one study -->
 	<study>
 		<citation year="2002" pmid="12475841" journal_abbrev="Chest">Sarrell</citation>
