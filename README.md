@@ -1,6 +1,6 @@
 **If you want to read this meta-analysis:**
 
-Go to the long url at the top of this page that starts with 'http://openmetaanalysis.github.io/'
+* Go to the long url at the top of this page that starts with 'openmetaanalysis.github.io/'
 * Or go to http://openmetaanalysis.github.io/H
 
 **If you are an author and want to revise or add to this analysis:**
