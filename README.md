@@ -1,7 +1,8 @@
 **If you want to read this meta-analysis:**
 
-* Go to http://openmetaanalysis.github.io/
- 
+* Go to the long url near the top of this page that starts with 'openmetaanalysis.github.io/'
+* Or go to http://openmetaanalysis.github.io/
+
 **If you are an author and want to revise or add to this analysis:**
 Text files:
 * [PICO table](../../tree/gh-pages/tables/pico.xml)
