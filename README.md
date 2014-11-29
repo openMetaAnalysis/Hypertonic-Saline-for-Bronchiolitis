@@ -1,6 +1,3 @@
-Hypertonic Saline for Bronchiolitis: a living systematic review
-=================================
-
 **If you want to read this meta-analysis:**
 
 * Go to http://openmetaanalysis.github.io/
