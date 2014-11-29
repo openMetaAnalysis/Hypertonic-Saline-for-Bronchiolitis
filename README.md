@@ -10,5 +10,6 @@ Hypertonic Saline for Bronchiolitis: a living systematic review
 * [PICO table](../../tree/gh-pages/tables)
 * [Risk of bias table](../../tree/gh-pages/tables)
 * [Data tables](../../tree/gh-pages/data)
+* [Clinical summary and references](../../tree/gh-pages/index.html)
 
 [Methods](https://github.com/openMetaAnalysis/_Methods/blob/master/README.md) used by these reviews.
