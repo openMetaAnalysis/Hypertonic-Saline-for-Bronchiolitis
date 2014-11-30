@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <included>
-<!-- Surround text with **' (see example below) for details that you think are so important they affected how a study compares to other studies. Be sparing in this. -->
+<!-- Surround text with '**' (see example below) for details that you think are so important they affected how a study compares to other studies. Be sparing in this. -->
 	<!-- Add or substract studies as needed. This is the start of one study -->
 	<study>
 		<citation year="2002" pmid="12475841" journal_abbrev="Chest">Sarrell</citation>
@@ -311,11 +311,11 @@
 		</patients>
 		<intervention>3% hypertonic saline (4 ml)
 			<bullet>With albuterol sulfate</bullet>
-			<bullet><emphasis>Single dose</emphasis> prior to repeat assessment and hospitalization decision; however continued every six hours until discharge</bullet>
+			<bullet>**Single dose** prior to repeat assessment and hospitalization decision; however continued every six hours until discharge</bullet>
 		</intervention>
 		<comparison>0.9% normal saline (4 ml)
 			<bullet>With albuterol sulfate</bullet>
-			<bullet><emphasis>Single dose</emphasis> prior to repeat assessment and hospitalization decision; however continued every six hours until discharge</bullet>
+			<bullet>**Single dose** prior to repeat assessment and hospitalization decision; however continued every six hours until discharge</bullet>
 		</comparison>
 		<outcome>
 			<bullet type="primary" url="http://www.wikidoc.org/index.php/Respiratory_distress_assessment_instrument">Respiratory distress assessment index (RDAI)</bullet>
