@@ -96,11 +96,11 @@
 		</patients>
 		<intervention>3% hypertonic saline (4 ml)
 			<bullet>With 1.5 mg of epinephrine or 2.5 mg of salbutamol</bullet>
-			<bullet>**Repeated once** after 30 minutes</bullet>
+			<bullet>Repeated once after 30 minutes</bullet>
 		</intervention>
 		<comparison>0.9% saline solution (4 ml)
 			<bullet>With 1.5 mg of epinephrine or 2.5 mg of salbutamol</bullet>
-			<bullet>**Repeated once** after 30 minutes</bullet>
+			<bullet>Repeated once after 30 minutes</bullet>
 		</comparison>
 		<outcome>
 			<bullet type="primary" url="http://pubmed.gov/1731571">Bronchiolitis Severity Score (Wang, 1992)</bullet>
@@ -267,11 +267,11 @@
 		</patients>
 		<intervention><emphasis>7% hypertonic saline (3 ml)</emphasis>
 			<bullet>With 0.5 mL 2.25% racemic epinephrine</bullet>
-			<bullet><emphasis>Single dose</emphasis> prior to repeat assessment and hospitalization decision; however continued every six hours until discharge</bullet>
+			<bullet>**Single dose** prior to repeat assessment and hospitalization decision; however continued every six hours until discharge</bullet>
 		</intervention>
 		<comparison>0.9% normal saline (3 ml)
 			<bullet>With 0.5 mL 2.25% racemic epinephrine</bullet>
-			<bullet><emphasis>Single dose</emphasis> prior to repeat assessment and hospitalization decision; however continued every six hours until discharge</bullet>
+			<bullet>*Single dose** prior to repeat assessment and hospitalization decision; however continued every six hours until discharge</bullet>
 		</comparison>
 		<outcome>
 			<bullet type="primary" url="http://pubmed.gov/1731571">Bronchiolitis Severity Score (Wang, 1992)</bullet>
