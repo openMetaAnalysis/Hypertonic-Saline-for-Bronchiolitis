@@ -18,7 +18,7 @@
 			<bullet>Every 8 hours for 5 days</bullet>
 		</comparison>
 		<outcome>
-			<bullet type="primary">Bronchiolitis Severity Score (PMID <a href="http://pubmed.gov/1731571">1731571</a>)</bullet>
+			<bullet type="primary" url="http://pubmed.gov/1731571">Bronchiolitis Severity Score (Wang, 1992)</bullet>
 			<bullet type="primary">Hospitalization rate</bullet>
 			<bullet type="secondary">Others</bullet>
 		</outcome>
@@ -41,14 +41,14 @@
 			<bullet>Every 8 hours until discharge</bullet>
 		</comparison>
 		<outcome>
-			<bullet type="primary" url="http://www.wikidoc.org/index.php/Respiratory_distress_assessment_instrument">Respiratory distress assessment index (RDAI)</bullet>
+			<bullet type="primary" url="http://pubmed.gov/1731571">Bronchiolitis Severity Score (Wang, 1992)</bullet>
 			<bullet type="primary">Hospitalization rate</bullet>
 			<bullet type="primary">Respiratory rate</bullet>
 		</outcome>
 	</study>
 	<!-- Start of a new study -->
 	<study>
-		<citation year="2006" pmid="17719935" journal_abbrev="Isr Med Assoc J">Tai</citation>
+		<citation year="2006" pmid="16599051" journal_abbrev="Isr Med Assoc J">Tai</citation>
 		<design>Randomized controlled trial</design>
 		<patients total="41 ">
 			<bullet>Mean age 2.6 months</bullet>
@@ -64,7 +64,7 @@
 		</comparison>
 		<outcome>
 			<bullet type="primary">Length of hospital stay</bullet>
-			<bullet type="primary">Bronchiolitis Severity Score (PMID <a href="http://pubmed.gov/1731571">1731571</a>)</bullet>
+			<bullet type="primary" url="http://pubmed.gov/1731571">Bronchiolitis Severity Score (Wang, 1992)</bullet>
 		</outcome>
 	</study>
 	<!-- Start of a new study -->
@@ -103,7 +103,7 @@
 			<bullet><emphasis>Repeated once</emphasis> after 30 minutes</bullet>
 		</comparison>
 		<outcome>
-			<bullet type="primary">Clinical severity score</bullet>
+			<bullet type="primary" url="http://pubmed.gov/1731571">Bronchiolitis Severity Score (Wang, 1992)</bullet>
 			<bullet type="primary">Hospitalization rate</bullet>
 		</outcome>
 	</study>
@@ -124,7 +124,7 @@
 			<bullet><emphasis>Repeated once if needed</emphasis> within 120 minutes</bullet>
 		</comparison>
 		<outcome>
-			<bullet type="primary">Clinical severity score</bullet>
+			<bullet type="primary" url="http://www.wikidoc.org/index.php/Respiratory_distress_assessment_instrument">Respiratory distress assessment index (RDAI)</bullet>
 			<bullet type="primary">Hospitalization rate</bullet>
 			<bullet type="secondary">Others</bullet>
 		</outcome>
@@ -146,7 +146,7 @@
 			<bullet>Every four hours until discharge</bullet>
 		</comparison>
 		<outcome>
-			<bullet type="primary">Clinical severity score</bullet>
+			<bullet type="primary" url="http://pubmed.gov/1731571">Bronchiolitis Severity Score (Wang, 1992)</bullet>
 			<bullet type="primary">Hospitalization rate</bullet>
 			<bullet type="secondary">Others</bullet>
 		</outcome>
@@ -168,7 +168,7 @@
 			<bullet>Every 8 hours until discharge</bullet>
 		</comparison>
 		<outcome>
-			<bullet type="primary">Clinical severity score</bullet>
+			<bullet type="primary" url="http://pubmed.gov/1731571">Bronchiolitis Severity Score (Wang, 1992)</bullet>
 			<bullet type="primary">Length of hospital stay</bullet>
 			<bullet type="secondary">Others</bullet>
 		</outcome>
@@ -188,7 +188,7 @@
 			<bullet>Every 2 hours for 3 doses tapered to every 6 hours until discharge</bullet>
 		</comparison>
 		<outcome>
-			<bullet type="primary">Clinical severity score</bullet>
+			<bullet type="primary" url="http://pubmed.gov/1731571">Bronchiolitis Severity Score (Wang, 1992)</bullet>
 			<bullet type="primary">Length of hospital stay</bullet>
 			<bullet type="secondary">Others</bullet>
 		</outcome>
@@ -210,7 +210,7 @@
 			<bullet>Every 20 minutes for <emphasis>three total doses</emphasis></bullet>
 		</comparison>
 		<outcome>
-			<bullet type="primary">Clinical severity score</bullet>
+			<bullet type="primary" url="http://pubmed.gov/1731571">Bronchiolitis Severity Score (Wang, 1992)</bullet>
 			<bullet type="primary">Hospitalizaton rate</bullet>
 			<bullet type="secondary">Others</bullet>
 		</outcome>
@@ -232,7 +232,7 @@
 			<bullet>Every 6 hours until discharge</bullet>
 		</comparison>
 		<outcome>
-			<bullet type="primary">Clinical severity score</bullet>
+			<bullet type="primary" url="http://pubmed.gov/1731571">Bronchiolitis Severity Score (Wang, 1992)</bullet>
 			<bullet type="primary">Length of hospital stay</bullet>
 		</outcome>
 	</study>
@@ -253,7 +253,7 @@
 			<bullet>Every 4 hours until discharge</bullet>
 		</comparison>
 		<outcome>
-			<bullet type="primary">Clinical severity score</bullet>
+			<bullet type="primary" url="http://pubmed.gov/1731571">Bronchiolitis Severity Score (Wang, 1992)</bullet>
 			<bullet type="primary">Length of hospital stay</bullet>
 		</outcome>
 	</study>
@@ -274,7 +274,7 @@
 			<bullet><emphasis>Single dose</emphasis> prior to repeat assessment and hospitalization decision; however continued every six hours until discharge</bullet>
 		</comparison>
 		<outcome>
-			<bullet type="primary">Clinical severity score</bullet>
+			<bullet type="primary" url="http://pubmed.gov/1731571">Bronchiolitis Severity Score (Wang, 1992)</bullet>
 			<bullet type="secondary">Hospitalization rate</bullet>
 			<bullet type="secondary">Length of hospital stay</bullet>
 		</outcome>
@@ -298,7 +298,7 @@
 		<outcome>
 			<bullet type="primary">Hospitalization rate</bullet>
 			<bullet type="secondary">Length of hospital stay</bullet>
-			<bullet type="secondary">Respiratory Distress Assessment Instrument</bullet>
+			<bullet type="second" url="http://www.wikidoc.org/index.php/Respiratory_distress_assessment_instrument">Respiratory distress assessment index (RDAI)</bullet>
 		</outcome>
 	</study>
 	<!-- Start of a new study -->
@@ -318,7 +318,7 @@
 			<bullet><emphasis>Single dose</emphasis> prior to repeat assessment and hospitalization decision; however continued every six hours until discharge</bullet>
 		</comparison>
 		<outcome>
-			<bullet type="primary">Respiratory Distress Assessment Instrument</bullet>
+			<bullet type="primary" url="http://www.wikidoc.org/index.php/Respiratory_distress_assessment_instrument">Respiratory distress assessment index (RDAI)</bullet>
 			<bullet type="secondary">Hospitalization rate</bullet>
 			<bullet type="secondary">Others</bullet>
 		</outcome>
