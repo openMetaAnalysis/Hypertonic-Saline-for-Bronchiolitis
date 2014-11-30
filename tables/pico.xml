@@ -103,7 +103,7 @@
 			<bullet>Repeated once after 30 minutes</bullet>
 		</comparison>
 		<outcome>
-			<bullet type="primary" url="http://pubmed.gov/1731571">Bronchiolitis Severity Score (Wang, 1992). Like the Cochrane, we could not extract these numbers for pooling.</bullet>
+			<bullet type="primary" url="http://pubmed.gov/1731571">Bronchiolitis Severity Score (Wang, 1992). Like the Cochrane, **we could not extract these numbers, which were insignificant, for pooling**.</bullet>
 			<bullet type="primary">Hospitalization rate</bullet>
 		</outcome>
 	</study>
@@ -124,7 +124,7 @@
 			<bullet><emphasis>Repeated once if needed</emphasis> within 120 minutes</bullet>
 		</comparison>
 		<outcome>
-			<bullet type="primary" url="http://www.wikidoc.org/index.php/Respiratory_distress_assessment_instrument">Change in Respiratory distress assessment index (RDAI).  Like the Cochrane, we could not extract these numbers for pooling.</bullet>
+			<bullet type="primary" url="http://www.wikidoc.org/index.php/Respiratory_distress_assessment_instrument">Change in Respiratory distress assessment index (RDAI).  Like the Cochrane, **we could not extract these numbers, which were insignificant, for pooling**.</bullet>
 			<bullet type="primary">Hospitalization rate</bullet>
 			<bullet type="secondary">Others</bullet>
 		</outcome>
@@ -274,7 +274,7 @@
 			<bullet>**Single dose** prior to repeat assessment and hospitalization decision; however continued every six hours until discharge</bullet>
 		</comparison>
 		<outcome>
-			<bullet type="primary" url="http://pubmed.gov/1731571">Bronchiolitis Severity Score (Wang, 1992)</bullet>
+			<bullet type="primary" url="http://pubmed.gov/1731571">Bronchiolitis Severity Score (Wang, 1992). **We could not extract these numbers, which were insignificant, for pooling.**</bullet>
 			<bullet type="secondary">Hospitalization rate</bullet>
 			<bullet type="secondary">Length of hospital stay</bullet>
 		</outcome>
