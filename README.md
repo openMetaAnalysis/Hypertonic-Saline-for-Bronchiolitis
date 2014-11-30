@@ -4,6 +4,7 @@
 * Or go to http://openmetaanalysis.github.io/
 
 **If you are an author and want to revise or add to this analysis:**
+
 Text files:
 * [PICO table](../../tree/gh-pages/tables/pico.xml)
 * [Risk of bias table](../../tree/gh-pages/tables/bias.xml)
