@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <included>
-<!-- Surround text with <emphasis> tag (see example below) for details that you think are so important they affected how a study compares to other studies. Be sparing in this. -->
+<!-- Surround text with **' (see example below) for details that you think are so important they affected how a study compares to other studies. Be sparing in this. -->
 	<!-- Add or substract studies as needed. This is the start of one study -->
 	<study>
 		<citation year="2002" pmid="12475841" journal_abbrev="Chest">Sarrell</citation>
@@ -96,11 +96,11 @@
 		</patients>
 		<intervention>3% hypertonic saline (4 ml)
 			<bullet>With 1.5 mg of epinephrine or 2.5 mg of salbutamol</bullet>
-			<bullet><emphasis>Repeated once</emphasis> after 30 minutes</bullet>
+			<bullet>**Repeated once** after 30 minutes</bullet>
 		</intervention>
 		<comparison>0.9% saline solution (4 ml)
 			<bullet>With 1.5 mg of epinephrine or 2.5 mg of salbutamol</bullet>
-			<bullet><emphasis>Repeated once</emphasis> after 30 minutes</bullet>
+			<bullet>**Repeated once** after 30 minutes</bullet>
 		</comparison>
 		<outcome>
 			<bullet type="primary" url="http://pubmed.gov/1731571">Bronchiolitis Severity Score (Wang, 1992)</bullet>
