@@ -15,4 +15,10 @@ Images (hint: use Git Client for [Windows](https://windows.github.com/) or [Mac]
 * [Forest plots](../../tree/master/forest plots/)
 * [GRADE Profiles](../../tree/master/GRADE Profiles)
 
-[Methods](https://github.com/openMetaAnalysis/_Methods/blob/master/README.md) used by these reviews..
+[Methods](https://github.com/openMetaAnalysis/_Methods/blob/master/README.md) used by these reviews.
+
+Do you want to contribute:
+
+* '[Fork](../../fork)' this repository
+* Make your edits
+* Initiate a '[Pull request](../../compare/)' for your changes to be merged.
