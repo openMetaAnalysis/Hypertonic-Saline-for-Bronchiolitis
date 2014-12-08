@@ -15,4 +15,4 @@ Images (hint: use Git Client for [Windows](https://windows.github.com/) or [Mac]
 * [Forest plots](../../tree/master/forest plots/)
 * [GRADE Profiles](../../tree/master/GRADE Profiles)
 
-[Methods](https://github.com/openMetaAnalysis/_Methods/blob/master/README.md) used by these reviews.
+[Methods](https://github.com/openMetaAnalysis/_Methods/blob/master/README.md) used by these reviews..
