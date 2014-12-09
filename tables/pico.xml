@@ -10,11 +10,11 @@
 			<bullet>Ambulatory</bullet>
 		</patients>
 		<intervention>3% saline solution (2 ml)
-			<bullet>With 5 mg (0.5 ml) terbutaline</bullet>
+			<bullet>With 5 mg (0.5 ml) terbutaline via wet nebulized aerosol</bullet>
 			<bullet>Every 8 hours for 5 days</bullet>
 		</intervention>
 		<comparison>0.9% saline solution (2 ml)
-			<bullet>With 5 mg (0.5 ml) terbutaline</bullet>
+			<bullet>With 5 mg (0.5 ml) terbutaline via wet nebulized aerosol</bullet>
 			<bullet>Every 8 hours for 5 days</bullet>
 		</comparison>
 		<outcome>
@@ -33,11 +33,11 @@
 			<bullet>Hospitalized</bullet>
 		</patients>
 		<intervention>3% saline solution (4 ml)
-			<bullet>With 1.5 mg epinephrine</bullet>
+			<bullet>With 1.5 mg epinephrine via nebulized aerosol</bullet>
 			<bullet>Every 8 hours until discharge</bullet>
 		</intervention>
 		<comparison>0.9% saline solution (4 ml)
-			<bullet>With 1.5 mg epinephrine</bullet>
+			<bullet>With 1.5 mg epinephrine via nebulized aerosol</bullet>
 			<bullet>Every 8 hours until discharge</bullet>
 		</comparison>
 		<outcome>
@@ -55,11 +55,11 @@
 			<bullet>Hospitalized</bullet>
 		</patients>
 		<intervention>3% saline solution (4 ml)
-			<bullet>With 1.5 mg epinephrine</bullet>
+			<bullet>With 1.5 mg epinephrine via ultrasound nebulizer</bullet>
 			<bullet>Every eight hours until discharge</bullet>
 		</intervention>
 		<comparison>0.9% saline solution (4 ml)
-			<bullet>With 1.5 mg epinephrine</bullet>
+			<bullet>With 1.5 mg epinephrine via ultrasound nebulizer</bullet>
 			<bullet>Every eight hours until discharge</bullet>
 		</comparison>
 		<outcome>
@@ -76,10 +76,10 @@
 			<bullet>Hospitalized</bullet>
 		</patients>
 		<intervention>3% saline solution (4 ml)
-			<bullet>Every 2 hours for 3 doses tapered to every 6 hours until discharge</bullet>
+			<bullet>Every 2 hours for 3 doses tapered to every 6 hours until discharge via oxygen-driven hospital nebulizer</bullet>
 		</intervention>
 		<comparison>0.9% saline solution (4 ml)
-			<bullet>Every 2 hours for 3 doses tapered to every 6 hours until discharge</bullet>
+			<bullet>Every 2 hours for 3 doses tapered to every 6 hours until discharge via oxygen-driven hospital nebulizer</bullet>
 		</comparison>
 		<outcome>
 			<bullet type="primary">Length of stay</bullet>
@@ -95,11 +95,11 @@
 			<bullet>Emergency department</bullet>
 		</patients>
 		<intervention>3% hypertonic saline (4 ml)
-			<bullet>With 1.5 mg of epinephrine or 2.5 mg of salbutamol</bullet>
+			<bullet>With 1.5 mg of epinephrine or 2.5 mg of salbutamol via nebulization with 100% oxygen at 6l/min</bullet>
 			<bullet>Repeated once after 30 minutes</bullet>
 		</intervention>
 		<comparison>0.9% saline solution (4 ml)
-			<bullet>With 1.5 mg of epinephrine or 2.5 mg of salbutamol</bullet>
+			<bullet>With 1.5 mg of epinephrine or 2.5 mg of salbutamol via nebulization with 100% oxygen at 6l/min</bullet>
 			<bullet>Repeated once after 30 minutes</bullet>
 		</comparison>
 		<outcome>
@@ -116,11 +116,11 @@
 			<bullet>Emergency department</bullet>
 		</patients>
 		<intervention>3% hypertonic saline (2.5 ml)
-			<bullet>With 0.5 ml of 2.25% racemic epinephrine</bullet>
+			<bullet>With 0.5 ml of 2.25% racemic epinephrine via nebulization with continous oxygen flow of 6l/min</bullet>
 			<bullet><emphasis>Repeated once if needed</emphasis> within 120 minutes</bullet>
 		</intervention>
 		<comparison>0.9% saline solution (2.5 ml)
-			<bullet>With 0.5 ml of 2.25% racemic epinephrine</bullet>
+			<bullet>With 0.5 ml of 2.25% racemic epinephrine via nebulization with continous oxygen flow of 6l/min</bullet>
 			<bullet><emphasis>Repeated once if needed</emphasis> within 120 minutes</bullet>
 		</comparison>
 		<outcome>
@@ -138,11 +138,11 @@
 			<bullet>Emergency department</bullet>
 		</patients>
 		<intervention>3% or 5% hypertonic saline (5 ml)
-			<bullet>With 1.5 ml of epinephrine</bullet>
+			<bullet>With 1.5 ml of epinephrine via nebulization</bullet>
 			<bullet>Every four hours until discharge</bullet>
 		</intervention>
 		<comparison>0.9% normal saline (5 ml)
-			<bullet>With 1.5 ml of epinephrine</bullet>
+			<bullet>With 1.5 ml of epinephrine via nebulization</bullet>
 			<bullet>Every four hours until discharge</bullet>
 		</comparison>
 		<outcome>
@@ -160,11 +160,11 @@
 			<bullet>Hospitalized</bullet>
 		</patients>
 		<intervention>3% hypertonic saline (4 ml)
-			<bullet>With 2.5 mg of salbutamol</bullet>
+			<bullet>With 2.5 mg of salbutamol via air-compressed nebulizer</bullet>
 			<bullet>Every 8 hours until discharge</bullet>
 		</intervention>
 		<comparison>0.9% normal saline (4 ml)
-			<bullet>With 2.5 mg of salbutamol</bullet>
+			<bullet>With 2.5 mg of salbutamol via air-compressed nebulizer</bullet>
 			<bullet>Every 8 hours until discharge</bullet>
 		</comparison>
 		<outcome>
@@ -182,10 +182,10 @@
 			<bullet>Hospitalized</bullet>
 		</patients>
 		<intervention>3% hypertonic saline (4 ml)
-			<bullet>Every 2 hours for 3 doses tapered to every 6 hours until discharge</bullet>
+			<bullet>Every 2 hours for 3 doses tapered to every 6 hours until discharge via nebulization</bullet>
 		</intervention>
 		<comparison>0.9% normal saline (4 ml)
-			<bullet>Every 2 hours for 3 doses tapered to every 6 hours until discharge</bullet>
+			<bullet>Every 2 hours for 3 doses tapered to every 6 hours until discharge via nebulization</bullet>
 		</comparison>
 		<outcome>
 			<bullet type="primary" url="http://pubmed.gov/1731571">Bronchiolitis Severity Score (Wang, 1992)</bullet>
@@ -202,11 +202,11 @@
 			<bullet>Emergency Department</bullet>
 		</patients>
 		<intervention>3% hypertonic saline (4 ml)
-			<bullet>With or without salbutamol 0.15 mg/kg</bullet>
+			<bullet>With or without salbutamol 0.15 mg/kg via a compressor nebulizer</bullet>
 			<bullet>Every 20 minutes for <emphasis>three total doses</emphasis></bullet>
 		</intervention>
 		<comparison>0.9% normal saline (4 ml)
-			<bullet>With or without salbutamol 0.15 mg/kg</bullet>
+			<bullet>With or without salbutamol 0.15 mg/kg via a compressor nebulizer</bullet>
 			<bullet>Every 20 minutes for <emphasis>three total doses</emphasis></bullet>
 		</comparison>
 		<outcome>
@@ -224,11 +224,11 @@
 			<bullet>Hospitalized</bullet>
 		</patients>
 		<intervention>3% hypertonic saline (unclear dose)
-			<bullet>With 1.5 mg of epinephrine</bullet>
+			<bullet>With 1.5 mg of epinephrine via nebulizer with continous oxygen flow at 6l/min</bullet>
 			<bullet>Every 6 hours until discharge</bullet>
 		</intervention>
 		<comparison>0.9% normal saline (unclear dose)
-			<bullet>With 1.5 mg of epinephrine</bullet>
+			<bullet>With 1.5 mg of epinephrine via nebulizer with continous oxygen flow at 6l/min</bullet>
 			<bullet>Every 6 hours until discharge</bullet>
 		</comparison>
 		<outcome>
@@ -245,11 +245,11 @@
 			<bullet>Hospitalized</bullet>
 		</patients>
 		<intervention>3% hypertonic saline (4 ml)
-			<bullet>With 2.5 mg salbutamol</bullet>
+			<bullet>With 2.5 mg salbutamol via nebulization along with supplemental oxygen</bullet>
 			<bullet>Every 4 hours until discharge</bullet>
 		</intervention>
 		<comparison>0.9% normal saline (4 ml)
-			<bullet>With 2.5 mg salbutamol</bullet>
+			<bullet>With 2.5 mg salbutamol via nebulization along with supplemental oxygen</bullet>
 			<bullet>Every 4 hours until discharge</bullet>
 		</comparison>
 		<outcome>
@@ -266,11 +266,11 @@
 			<bullet>Hospitalized</bullet>
 		</patients>
 		<intervention><emphasis>7% hypertonic saline (3 ml)</emphasis>
-			<bullet>With 0.5 mL 2.25% racemic epinephrine</bullet>
+			<bullet>With 0.5 mL 2.25% racemic epinephrine via nebulization along with supplemental oxygen</bullet>
 			<bullet>**Single dose** prior to repeat assessment and hospitalization decision; however continued every six hours until discharge</bullet>
 		</intervention>
 		<comparison>0.9% normal saline (3 ml)
-			<bullet>With 0.5 mL 2.25% racemic epinephrine</bullet>
+			<bullet>With 0.5 mL 2.25% racemic epinephrine via nebulization along with supplemental oxygen</bullet>
 			<bullet>**Single dose** prior to repeat assessment and hospitalization decision; however continued every six hours until discharge</bullet>
 		</comparison>
 		<outcome>
@@ -288,12 +288,12 @@
 			<bullet>Emergency department</bullet>
 		</patients>
 		<intervention>3% hypertonic saline (4 ml)
-			<bullet>With albuterol sulfate</bullet>
+			<bullet>With albuterol sulfate via nebulization along with supplemental oxygen</bullet>
 			<bullet>Every 8 hours until discharge</bullet>
 		</intervention>
 		<comparison>0.9% normal saline (4 ml)
 			<bullet>With albuterol sulfate</bullet>
-			<bullet>Every 8 hours until discharge</bullet>
+			<bullet>Every 8 hours until discharge via nebulization along with supplemental oxygen</bullet>
 		</comparison>
 		<outcome>
 			<bullet type="primary">Hospitalization rate</bullet>
@@ -310,11 +310,11 @@
 			<bullet>Emergency department</bullet>
 		</patients>
 		<intervention>3% hypertonic saline (4 ml)
-			<bullet>With albuterol sulfate</bullet>
+			<bullet>With albuterol sulfate via jet nebulization with oxygen flow rate of 8l/min</bullet>
 			<bullet>**Single dose** prior to repeat assessment and hospitalization decision; however continued every six hours until discharge</bullet>
 		</intervention>
 		<comparison>0.9% normal saline (4 ml)
-			<bullet>With albuterol sulfate</bullet>
+			<bullet>With albuterol sulfate via jet nebulization with oxygen flow rate of 8l/min</bullet>
 			<bullet>**Single dose** prior to repeat assessment and hospitalization decision; however continued every six hours until discharge</bullet>
 		</comparison>
 		<outcome>
