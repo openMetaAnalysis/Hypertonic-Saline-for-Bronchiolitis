@@ -323,5 +323,26 @@
 			<bullet type="secondary">Others</bullet>
 		</outcome>
 	</study>
+	<!-- Start of a new study -->
+	<study>
+		<citation year="2014" pmid="25389139" journal_abbrev="Thoraxjnl">Sabre</citation>
+		<design>Randomized controlled trial</design>
+		<patients total="290">
+			<bullet>Mean age 3.3 months</bullet>
+			<bullet>Hospitalized</bullet>
+		</patients>
+		<intervention>3% hypertonic saline (4 ml)
+			<bullet>via PARI sprint nebulizer with oxygen as required</bullet>
+			<bullet>every six hours until discharge</bullet>
+		</intervention>
+		<comparison>supportive care
+			<bullet>with oxygen as required, minimal handling</bullet>
+			<bullet>along with fluid administration as sppropiate to the severity of the study</bullet>
+		</comparison>
+		<outcome>
+			<bullet type="primary">Length of stay</bullet>
+			<bullet type="secondary">others</bullet>
+		</outcome>
+	</study>
 	<!-- Leave the last line alone -->
 </included>
