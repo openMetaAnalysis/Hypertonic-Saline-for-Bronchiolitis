@@ -240,7 +240,7 @@
 	<study>
 		<citation year="2013" pmid="23502662" journal_abbrev="Indian Pediatr">Sharma</citation>
 		<design>Randomized controlled trial</design>
-		<patients total="109">
+		<patients total="248">
 			<bullet>Mean age 4.5 months</bullet>
 			<bullet>Hospitalized</bullet>
 		</patients>
@@ -327,7 +327,7 @@
 	<study>
 		<citation year="2014" pmid="25389139" journal_abbrev="Thorax">Sabre</citation>
 		<design>Randomized controlled trial</design>
-		<patients total="290">
+		<patients total="291">
 			<bullet>Mean age 3.3 months</bullet>
 			<bullet>Hospitalized</bullet>
 		</patients>
