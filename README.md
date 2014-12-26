@@ -4,6 +4,10 @@
 * Or go to http://openmetaanalysis.github.io/
 
 **If you are an author and want to revise or add to this analysis:**
+* Open a [contributor](../../network/members) is you need access
+* Open an [issue](../../issues/new)
+
+**If you want to read this meta-analysis:**
 
 Text files:
 * [PICO table](../../tree/gh-pages/tables/pico.xml)
