@@ -80,10 +80,10 @@
 <!-- start of a new study -->
 <study>
   <citation year="2010" pmid="19674354" journal_abbrev="Pediatr Int" totalsubjects="93">Luo</citation>
-  <randomization>High risk</randomization>
-  <allocation>High risk</allocation>
-  <blinding_people>Unclear risk</blinding_people>
-  <blinding_assessment>Unclear risk</blinding_assessment>
+  <randomization>Unclear risk</randomization>
+  <allocation>Low risk</allocation>
+  <blinding_people>Low risk</blinding_people>
+  <blinding_assessment>Low risk</blinding_assessment>
   <attrition>Low risk</attrition>
   <selective_reporting>Low risk</selective_reporting>
   <other_biases>Low risk</other_biases>
@@ -102,8 +102,8 @@
 <!-- start of a new study -->
 <study>
   <citation year="2011" pmid="21978929" journal_abbrev="Pulm Pharmacol Ther" totalsubjects="120">Ipek</citation>
-  <randomization>High risk</randomization>
-  <allocation>High risk</allocation>
+  <randomization explanation="Group assignment based on order of admission">High risk</randomization>
+  <allocation explanation="Group assignment based on order of admission">High risk</allocation>
   <blinding_people>Unclear risk</blinding_people>
   <blinding_assessment>Unclear risk</blinding_assessment>
   <attrition>Low risk</attrition>
@@ -170,8 +170,8 @@
   <citation year="2014" pmid="25389139" journal_abbrev="Thorax" totalsubjects="291">SABRE</citation>
   <randomization>Low risk</randomization>
   <allocation>Low risk</allocation>
-  <blinding_people>High risk</blinding_people>
-  <blinding_assessment>High risk</blinding_assessment>
+  <blinding_people explanation="Open-label design">High risk</blinding_people>
+  <blinding_assessment explanation="Open-label design">High risk</blinding_assessment>
   <attrition>Low risk</attrition>
   <selective_reporting>Low risk</selective_reporting>
   <other_biases>Low risk</other_biases>
