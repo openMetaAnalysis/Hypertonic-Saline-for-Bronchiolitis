@@ -7,7 +7,7 @@
 * Contact a [contributor](../../network/members) is you need access
 * Open an [issue](../../issues/new)
 
-**If you want to read this meta-analysis:**
+**If you want to update this meta-analysis:**
 
 Text files:
 * [PICO table](../../tree/gh-pages/tables/pico.xml)
@@ -21,7 +21,7 @@ Images (hint: use Git Client for [Windows](https://windows.github.com/) or [Mac]
 
 [Methods](https://github.com/openMetaAnalysis/_Methods/blob/master/README.md) used by these reviews.
 
-Do you want to contribute:
+**Do you want to contribute:**
 
 * '[Fork](../../fork)' this repository
 * Make your edits
