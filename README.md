@@ -4,7 +4,7 @@
 * Or go to http://openmetaanalysis.github.io/
 
 **If you want to comment on this meta-analysis:**
-* Open a [contributor](../../network/members) is you need access
+* Contact a [contributor](../../network/members) is you need access
 * Open an [issue](../../issues/new)
 
 **If you want to read this meta-analysis:**
