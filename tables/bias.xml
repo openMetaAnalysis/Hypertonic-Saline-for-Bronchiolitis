@@ -2,7 +2,7 @@
 <included>
 <!-- start of a new study -->
 <study>
-  <citation year="2002" pmid="12475841" journal_abbrev="Chest" totalsubjects="65">Sarrell</citation>
+  <citation year="2002" pmid="12475841" nct="" journal_abbrev="Chest" totalsubjects="65">Sarrell</citation>
   <randomization>Low risk</randomization>
   <allocation>Low risk</allocation>
   <blinding_people>Low risk</blinding_people>
@@ -13,7 +13,7 @@
 </study>
 <!-- start of a new study -->
 <study>
-  <citation year="2003" pmid="12576370" journal_abbrev="Chest" totalsubjects="62">Mandelberg</citation>
+  <citation year="2003" pmid="12576370" nct="" journal_abbrev="Chest" totalsubjects="62">Mandelberg</citation>
   <randomization>Low risk</randomization>
   <allocation>Low risk</allocation>
   <blinding_people>Low risk</blinding_people>
@@ -24,7 +24,7 @@
 </study>
 <!-- start of a new study -->
 <study>
-  <citation year="2006" pmid="16599051" journal_abbrev="Isr Med Assoc J" totalsubjects="41">Tai</citation>
+  <citation year="2006" pmid="16599051" nct="" journal_abbrev="Isr Med Assoc J" totalsubjects="41">Tai</citation>
   <randomization>Low risk</randomization>
   <allocation>Low risk</allocation>
   <blinding_people>Low risk</blinding_people>
@@ -35,7 +35,7 @@
 </study>
 <!-- start of a new study -->
 <study>
-  <citation year="2007" pmid="17719935" journal_abbrev="J Pediatr" totalsubjects="96">Kuzick</citation>
+  <citation year="2007" pmid="17719935" nct="" journal_abbrev="J Pediatr" totalsubjects="96">Kuzick</citation>
   <randomization>Low risk</randomization>
   <allocation>Low risk</allocation>
   <blinding_people>Low risk</blinding_people>
@@ -46,7 +46,7 @@
 </study>
 <!-- start of a new study -->
 <study>
-  <citation year="2009" pmid="19953579" journal_abbrev="J Pediatr Pulmonol" totalsubjects="186">Anil</citation>
+  <citation year="2009" pmid="19953579" nct="" journal_abbrev="J Pediatr Pulmonol" totalsubjects="186">Anil</citation>
   <randomization>Low risk</randomization>
   <allocation>Low risk</allocation>
   <blinding_people>Low risk</blinding_people>
@@ -57,7 +57,7 @@
 </study>
 <!-- start of a new study -->
 <study>
-  <citation year="2009" pmid="19884591" journal_abbrev="J Arch Pediatr" totalsubjects="48">Grewal</citation>
+  <citation year="2009" pmid="19884591" nct="" journal_abbrev="J Arch Pediatr" totalsubjects="48">Grewal</citation>
   <randomization>Low risk</randomization>
   <allocation>Low risk</allocation>
   <blinding_people>Low risk</blinding_people>
@@ -68,7 +68,7 @@
 </study>
 <!-- start of a new study -->
 <study>
-  <citation year="2010" pmid="20646715" journal_abbrev="J Pediatr" totalsubjects="171">Al Ansari</citation>
+  <citation year="2010" pmid="20646715" nct="" journal_abbrev="J Pediatr" totalsubjects="171">Al Ansari</citation>
   <randomization>Low risk</randomization>
   <allocation>Low risk</allocation>
   <blinding_people>Low risk</blinding_people>
@@ -79,7 +79,7 @@
 </study>
 <!-- start of a new study -->
 <study>
-  <citation year="2010" pmid="19674354" journal_abbrev="Pediatr Int" totalsubjects="93">Luo</citation>
+  <citation year="2010" pmid="19674354" nct="" journal_abbrev="Pediatr Int" totalsubjects="93">Luo</citation>
   <randomization>Unclear risk</randomization>
   <allocation>Low risk</allocation>
   <blinding_people>Low risk</blinding_people>
@@ -90,7 +90,7 @@
 </study>
 <!-- start of a new study -->
 <study>
-  <citation year="2011" pmid="20636429" journal_abbrev="Clin Microbiol Infect" totalsubjects="126">Luo</citation>
+  <citation year="2011" pmid="20636429" nct="" journal_abbrev="Clin Microbiol Infect" totalsubjects="126">Luo</citation>
   <randomization>Low risk</randomization>
   <allocation>Low risk</allocation>
   <blinding_people>Low risk</blinding_people>
@@ -101,7 +101,7 @@
 </study>
 <!-- start of a new study -->
 <study>
-  <citation year="2011" pmid="21978929" journal_abbrev="Pulm Pharmacol Ther" totalsubjects="120">Ipek</citation>
+  <citation year="2011" pmid="21978929" nct="" journal_abbrev="Pulm Pharmacol Ther" totalsubjects="120">Ipek</citation>
   <randomization explanation="Group assignment based on order of admission">High risk</randomization>
   <allocation explanation="Group assignment based on order of admission">High risk</allocation>
   <blinding_people>Unclear risk</blinding_people>
@@ -112,7 +112,7 @@
 </study>
 <!-- start of a new study -->
 <study>
-  <citation year="2012" pmid="22697080" journal_abbrev="Int J Immunopathol Pharmacol" totalsubjects="106">Miraglia Del Giudice</citation>
+  <citation year="2012" pmid="22697080" nct="" journal_abbrev="Int J Immunopathol Pharmacol" totalsubjects="106">Miraglia Del Giudice</citation>
   <randomization>Low risk</randomization>
   <allocation>Unclear risk</allocation>
   <blinding_people>Low risk</blinding_people>
@@ -123,7 +123,7 @@
 </study>
 <!-- start of a new study -->
 <study>
-  <citation year="2013" pmid="23502662" journal_abbrev="Indian Pediatr" totalsubjects="248">Sharma</citation>
+  <citation year="2013" pmid="23502662" nct="" journal_abbrev="Indian Pediatr" totalsubjects="248">Sharma</citation>
   <randomization>Low risk</randomization>
   <allocation>Unclear risk</allocation>
   <blinding_people>Unclear risk</blinding_people>
@@ -134,7 +134,7 @@
 </study>
 <!-- start of a new study -->
 <study>
-  <citation year="2014" pmid="24344111" journal_abbrev="Pediatrics" totalsubjects="101">Jacobs</citation>
+  <citation year="2014" pmid="24344111" nct="" journal_abbrev="Pediatrics" totalsubjects="101">Jacobs</citation>
   <randomization>Low risk</randomization>
   <allocation>Low risk</allocation>
   <blinding_people>Low risk</blinding_people>
@@ -145,7 +145,7 @@
 </study>
 <!-- start of a new study -->
 <study>
-  <citation year="2014" pmid="24862623" journal_abbrev="JAMA Pediatr" totalsubjects="447">Wu</citation>
+  <citation year="2014" pmid="24862623" nct="" journal_abbrev="JAMA Pediatr" totalsubjects="447">Wu</citation>
   <randomization>Low risk</randomization>
   <allocation>Low risk</allocation>
   <blinding_people>Low risk</blinding_people>
@@ -156,7 +156,7 @@
 </study>
 <!-- start of a new study -->
 <study>
-  <citation year="2014" pmid="24862342" journal_abbrev="JAMA Pediatr" totalsubjects="62">Florin</citation>
+  <citation year="2014" pmid="24862342" nct="" journal_abbrev="JAMA Pediatr" totalsubjects="62">Florin</citation>
   <randomization>Low risk</randomization>
   <allocation>Low risk</allocation>
   <blinding_people>Low risk</blinding_people>
@@ -167,7 +167,7 @@
 </study>
 <!-- start of a new study -->
 <study>
-  <citation year="2014" pmid="25389139" journal_abbrev="Thorax" totalsubjects="291">SABRE</citation>
+  <citation year="2014" pmid="25389139" nct="" journal_abbrev="Thorax" totalsubjects="291">SABRE</citation>
   <randomization>Low risk</randomization>
   <allocation>Low risk</allocation>
   <blinding_people explanation="Open-label design">High risk</blinding_people>
