@@ -3,7 +3,7 @@
 * Go to the long url near the top of this page that starts with 'openmetaanalysis.github.io/'
 * Or go to http://openmetaanalysis.github.io/
 
-**If you are an author and want to revise or add to this analysis:**
+**If you want to comment on this meta-analysis:**
 * Open a [contributor](../../network/members) is you need access
 * Open an [issue](../../issues/new)
 
