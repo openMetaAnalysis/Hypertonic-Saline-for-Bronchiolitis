@@ -5,7 +5,7 @@ Receive notifications about possible studies when results posted at [ClinicalTri
 -------------------------
 Search strategy is **Terms: hypertonic random* | Studies With Results | Condition: bronchiolitis | updated in the last 14 days**:
 
-* [Search now and test strategy at PubMed](http://www.ncbi.nlm.nih.gov/pubmed?cmd=Search&term=hypertonic%20saline%20AND%20random*%20AND%20bronchiolitis)
+* [Search now and test strategy at ClinicalTrials.gov](https://clinicaltrials.gov/ct2/results?term=hypertonic+random*&rslt=With&cond=bronchiolitis&sel_rss=mod14)
 * Receive updates by [email](https://feedburner.google.com/fb/a/mailverify?uri=ClinicaltrialsgovHypertonicSalineBronchiolitisResultsBronchiolitisNewUpdates) or [RSS](http://feeds.feedburner.com/ClinicaltrialsgovHypertonicSalineBronchiolitisResultsBronchiolitisNewUpdates)
 
 Receive notifications about possible studies when indexed at PubMed
