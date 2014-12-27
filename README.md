@@ -7,6 +7,9 @@
 * Contact a [contributor](../../network/members) is you need access
 * Open an [issue](../../issues/new)
 
+**If you want to be notified of new trials being posted at ClinicalTrials, PubMed, or here:**
+* [Subscribe by email or RSS](Keep-up.md)
+
 **If you want to update this meta-analysis:**
 
 Text files:
