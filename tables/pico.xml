@@ -6,6 +6,7 @@
 		<citation year="2002" pmid="12475841" journal_abbrev="Chest">Sarrell</citation>
 		<design>Randomized controlled trial</design>
 		<patients total="65">
+			<description>bronchiolitis</description>
 			<bullet>Mean age 13 months</bullet>
 			<bullet>Ambulatory</bullet>
 		</patients>
@@ -29,6 +30,7 @@
 		<citation year="2003" pmid="12576370" journal_abbrev="Chest">Mandelberg</citation>
 		<design>Randomized controlled trial</design>
 		<patients total="62">
+			<description>bronchiolitis</description>
 			<bullet>Mean age 2.9 months</bullet>
 			<bullet>Hospitalized</bullet>
 		</patients>
@@ -51,6 +53,7 @@
 		<citation year="2006" pmid="16599051" journal_abbrev="Isr Med Assoc J">Tal</citation>
 		<design>Randomized controlled trial</design>
 		<patients total="41 ">
+			<description>bronchiolitis</description>
 			<bullet>Mean age 2.6 months</bullet>
 			<bullet>Hospitalized</bullet>
 		</patients>
@@ -72,6 +75,7 @@
 		<citation year="2007" pmid="17719935" journal_abbrev="J Pediatr">Kuzick</citation>
 		<design>Randomized controlled trial</design>
 		<patients total="96">
+			<description>bronchiolitis</description>
 			<bullet>Mean age 4.7 months</bullet>
 			<bullet>Hospitalized</bullet>
 		</patients>
@@ -91,6 +95,7 @@
 		<citation year="2009" pmid="19953579" journal_abbrev="J Pediatr Pulmonol">Anil</citation>
 		<design>Randomized controlled trial</design>
 		<patients total="186">
+			<description>bronchiolitis</description>
 			<bullet>Mean age 9.5 months</bullet>
 			<bullet>Emergency department</bullet>
 		</patients>
@@ -112,6 +117,7 @@
 		<citation year="2009" pmid="19884591" journal_abbrev="J Arch Pediat">Grewal</citation>
 		<design>Randomized controlled trial</design>
 		<patients total="48">
+			<description>bronchiolitis</description>
 			<bullet>Mean age 5 months</bullet>
 			<bullet>Emergency department</bullet>
 		</patients>
@@ -134,6 +140,7 @@
 		<citation year="2010" pmid="20646715" journal_abbrev="J Pediatr">Al Ansari</citation>
 		<design>Randomized controlled trial</design>
 		<patients total="171">
+			<description>bronchiolitis</description>
 			<bullet>Mean age 3.1 months</bullet>
 			<bullet>Emergency department</bullet>
 		</patients>
@@ -156,6 +163,7 @@
 		<citation year="2010" pmid="19674354" journal_abbrev="Pediatr Int">Luo</citation>
 		<design>Randomized controlled trial</design>
 		<patients total="93">
+			<description>bronchiolitis</description>
 			<bullet>Mean age 5.8 months</bullet>
 			<bullet>Hospitalized</bullet>
 		</patients>
@@ -178,6 +186,7 @@
 		<citation year="2011" pmid="20636429" journal_abbrev="Clin Microbiol Infect">Luo</citation>
 		<design>Randomized controlled trial</design>
 		<patients total="126">
+			<description>bronchiolitis</description>
 			<bullet>Mean age 5.9 months</bullet>
 			<bullet>Hospitalized</bullet>
 		</patients>
@@ -198,6 +207,7 @@
 		<citation year="2011" pmid="21978929" journal_abbrev="Pulm Pharmacol Ther">Ipek</citation>
 		<design>Randomized controlled trial</design>
 		<patients total="120">
+			<description>bronchiolitis</description>
 			<bullet>Mean age 8.0 months</bullet>
 			<bullet>Emergency Department</bullet>
 		</patients>
@@ -220,6 +230,7 @@
 		<citation year="2012" pmid="22697080" journal_abbrev="Int J Immunopathol Pharmacol">Miraglia Del Giudice</citation>
 		<design>Randomized controlled trial</design>
 		<patients total="109">
+			<description>bronchiolitis</description>
 			<bullet>Mean age 8.0 months</bullet>
 			<bullet>Hospitalized</bullet>
 		</patients>
@@ -241,6 +252,7 @@
 		<citation year="2013" pmid="23502662" journal_abbrev="Indian Pediatr">Sharma</citation>
 		<design>Randomized controlled trial</design>
 		<patients total="248">
+			<description>bronchiolitis</description>
 			<bullet>Mean age 4.5 months</bullet>
 			<bullet>Hospitalized</bullet>
 		</patients>
@@ -262,6 +274,7 @@
 		<citation year="2014" pmid="24344111" journal_abbrev="Pediatrics">Jacobs</citation>
 		<design>Randomized controlled trial</design>
 		<patients total="101">
+			<description>bronchiolitis</description>
 			<bullet>Mean age 4.5 months</bullet>
 			<bullet>Hospitalized</bullet>
 		</patients>
@@ -284,6 +297,7 @@
 		<citation year="2014" pmid="24862623" journal_abbrev="JAMA Pediatr">Wu</citation>
 		<design>Randomized controlled trial</design>
 		<patients total="447">
+			<description>bronchiolitis</description>
 			<bullet>Mean age 6.5 months</bullet>
 			<bullet>Emergency department</bullet>
 		</patients>
@@ -306,6 +320,7 @@
 		<citation year="2014" pmid="24862342" journal_abbrev="JAMA Pediatr">Florin</citation>
 		<design>Randomized controlled trial</design>
 		<patients total="62">
+			<description>bronchiolitis</description>
 			<bullet>Mean age 6.5 months</bullet>
 			<bullet>Emergency department</bullet>
 		</patients>
@@ -328,6 +343,7 @@
 		<citation year="2014" pmid="25389139" journal_abbrev="Thorax">Sabre</citation>
 		<design>Randomized controlled trial</design>
 		<patients total="291">
+			<description>bronchiolitis</description>
 			<bullet>Mean age 3.3 months</bullet>
 			<bullet>Hospitalized</bullet>
 		</patients>
