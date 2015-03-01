@@ -6,16 +6,15 @@
 		<citation year="2002" pmid="12475841" journal_abbrev="Chest">Sarrell</citation>
 		<design>Randomized controlled trial</design>
 		<patients total="65">
-			<description>bronchiolitis</description>
 			<bullet>Mean age 13 months</bullet>
 			<bullet>Ambulatory</bullet>
 		</patients>
 		<intervention>3% saline solution (2 ml)
-			<bullet>With 5 mg (0.5 ml) terbutaline via wet nebulized aerosol</bullet>
+			<bullet>With 5 mg (0.5 ml) terbutaline</bullet>
 			<bullet>Every 8 hours for 5 days</bullet>
 		</intervention>
 		<comparison>0.9% saline solution (2 ml)
-			<bullet>With 5 mg (0.5 ml) terbutaline via wet nebulized aerosol</bullet>
+			<bullet>With 5 mg (0.5 ml) terbutaline</bullet>
 			<bullet>Every 8 hours for 5 days</bullet>
 		</comparison>
 		<outcome>
@@ -30,16 +29,15 @@
 		<citation year="2003" pmid="12576370" journal_abbrev="Chest">Mandelberg</citation>
 		<design>Randomized controlled trial</design>
 		<patients total="62">
-			<description>bronchiolitis</description>
 			<bullet>Mean age 2.9 months</bullet>
 			<bullet>Hospitalized</bullet>
 		</patients>
 		<intervention>3% saline solution (4 ml)
-			<bullet>With 1.5 mg epinephrine via nebulized aerosol</bullet>
+			<bullet>With 1.5 mg epinephrine</bullet>
 			<bullet>Every 8 hours until discharge</bullet>
 		</intervention>
 		<comparison>0.9% saline solution (4 ml)
-			<bullet>With 1.5 mg epinephrine via nebulized aerosol</bullet>
+			<bullet>With 1.5 mg epinephrine</bullet>
 			<bullet>Every 8 hours until discharge</bullet>
 		</comparison>
 		<outcome>
@@ -53,16 +51,15 @@
 		<citation year="2006" pmid="16599051" journal_abbrev="Isr Med Assoc J">Tal</citation>
 		<design>Randomized controlled trial</design>
 		<patients total="41 ">
-			<description>bronchiolitis</description>
 			<bullet>Mean age 2.6 months</bullet>
 			<bullet>Hospitalized</bullet>
 		</patients>
 		<intervention>3% saline solution (4 ml)
-			<bullet>With 1.5 mg epinephrine via ultrasound nebulizer</bullet>
+			<bullet>With 1.5 mg epinephrine</bullet>
 			<bullet>Every eight hours until discharge</bullet>
 		</intervention>
 		<comparison>0.9% saline solution (4 ml)
-			<bullet>With 1.5 mg epinephrine via ultrasound nebulizer</bullet>
+			<bullet>With 1.5 mg epinephrine</bullet>
 			<bullet>Every eight hours until discharge</bullet>
 		</comparison>
 		<outcome>
@@ -75,15 +72,14 @@
 		<citation year="2007" pmid="17719935" journal_abbrev="J Pediatr">Kuzick</citation>
 		<design>Randomized controlled trial</design>
 		<patients total="96">
-			<description>bronchiolitis</description>
 			<bullet>Mean age 4.7 months</bullet>
 			<bullet>Hospitalized</bullet>
 		</patients>
 		<intervention>3% saline solution (4 ml)
-			<bullet>Every 2 hours for 3 doses tapered to every 6 hours until discharge via oxygen-driven hospital nebulizer</bullet>
+			<bullet>Every 2 hours for 3 doses tapered to every 6 hours until discharge</bullet>
 		</intervention>
 		<comparison>0.9% saline solution (4 ml)
-			<bullet>Every 2 hours for 3 doses tapered to every 6 hours until discharge via oxygen-driven hospital nebulizer</bullet>
+			<bullet>Every 2 hours for 3 doses tapered to every 6 hours until discharge</bullet>
 		</comparison>
 		<outcome>
 			<bullet type="primary">Length of stay</bullet>
@@ -95,16 +91,15 @@
 		<citation year="2009" pmid="19953579" journal_abbrev="J Pediatr Pulmonol">Anil</citation>
 		<design>Randomized controlled trial</design>
 		<patients total="186">
-			<description>bronchiolitis</description>
 			<bullet>Mean age 9.5 months</bullet>
 			<bullet>Emergency department</bullet>
 		</patients>
 		<intervention>3% hypertonic saline (4 ml)
-			<bullet>With 1.5 mg of epinephrine or 2.5 mg of salbutamol via nebulization with 100% oxygen at 6l/min</bullet>
+			<bullet>With 1.5 mg of epinephrine or 2.5 mg of salbutamol</bullet>
 			<bullet>Repeated once after 30 minutes</bullet>
 		</intervention>
 		<comparison>0.9% saline solution (4 ml)
-			<bullet>With 1.5 mg of epinephrine or 2.5 mg of salbutamol via nebulization with 100% oxygen at 6l/min</bullet>
+			<bullet>With 1.5 mg of epinephrine or 2.5 mg of salbutamol</bullet>
 			<bullet>Repeated once after 30 minutes</bullet>
 		</comparison>
 		<outcome>
@@ -117,20 +112,19 @@
 		<citation year="2009" pmid="19884591" journal_abbrev="J Arch Pediat">Grewal</citation>
 		<design>Randomized controlled trial</design>
 		<patients total="48">
-			<description>bronchiolitis</description>
 			<bullet>Mean age 5 months</bullet>
 			<bullet>Emergency department</bullet>
 		</patients>
 		<intervention>3% hypertonic saline (2.5 ml)
-			<bullet>With 0.5 ml of 2.25% racemic epinephrine via nebulization with continous oxygen flow of 6l/min</bullet>
+			<bullet>With 0.5 ml of 2.25% racemic epinephrine</bullet>
 			<bullet><emphasis>Repeated once if needed</emphasis> within 120 minutes</bullet>
 		</intervention>
 		<comparison>0.9% saline solution (2.5 ml)
-			<bullet>With 0.5 ml of 2.25% racemic epinephrine via nebulization with continous oxygen flow of 6l/min</bullet>
+			<bullet>With 0.5 ml of 2.25% racemic epinephrine</bullet>
 			<bullet><emphasis>Repeated once if needed</emphasis> within 120 minutes</bullet>
 		</comparison>
 		<outcome>
-			<bullet type="primary" url="http://www.wikidoc.org/index.php/Respiratory_distress_assessment_instrument">Change in Respiratory distress assessment index (RDAI).  Like the Cochrane, **we could not extract these numbers, which were insignificant, for pooling**.</bullet>
+			<bullet type="primary" url="http://www.wikidoc.org/index.php/Respiratory_distress_assessment_instrument">Change in Respiratory distress assessment index (RDAI).</bullet>
 			<bullet type="primary">Hospitalization rate</bullet>
 			<bullet type="secondary">Others</bullet>
 		</outcome>
@@ -140,16 +134,15 @@
 		<citation year="2010" pmid="20646715" journal_abbrev="J Pediatr">Al Ansari</citation>
 		<design>Randomized controlled trial</design>
 		<patients total="171">
-			<description>bronchiolitis</description>
 			<bullet>Mean age 3.1 months</bullet>
 			<bullet>Emergency department</bullet>
 		</patients>
 		<intervention>3% or 5% hypertonic saline (5 ml)
-			<bullet>With 1.5 ml of epinephrine via nebulization</bullet>
+			<bullet>With 1.5 ml of epinephrine</bullet>
 			<bullet>Every four hours until discharge</bullet>
 		</intervention>
 		<comparison>0.9% normal saline (5 ml)
-			<bullet>With 1.5 ml of epinephrine via nebulization</bullet>
+			<bullet>With 1.5 ml of epinephrine</bullet>
 			<bullet>Every four hours until discharge</bullet>
 		</comparison>
 		<outcome>
@@ -163,16 +156,15 @@
 		<citation year="2010" pmid="19674354" journal_abbrev="Pediatr Int">Luo</citation>
 		<design>Randomized controlled trial</design>
 		<patients total="93">
-			<description>bronchiolitis</description>
 			<bullet>Mean age 5.8 months</bullet>
 			<bullet>Hospitalized</bullet>
 		</patients>
 		<intervention>3% hypertonic saline (4 ml)
-			<bullet>With 2.5 mg of salbutamol via air-compressed nebulizer</bullet>
+			<bullet>With 2.5 mg of salbutamol</bullet>
 			<bullet>Every 8 hours until discharge</bullet>
 		</intervention>
 		<comparison>0.9% normal saline (4 ml)
-			<bullet>With 2.5 mg of salbutamol via air-compressed nebulizer</bullet>
+			<bullet>With 2.5 mg of salbutamol</bullet>
 			<bullet>Every 8 hours until discharge</bullet>
 		</comparison>
 		<outcome>
@@ -186,15 +178,14 @@
 		<citation year="2011" pmid="20636429" journal_abbrev="Clin Microbiol Infect">Luo</citation>
 		<design>Randomized controlled trial</design>
 		<patients total="126">
-			<description>bronchiolitis</description>
 			<bullet>Mean age 5.9 months</bullet>
 			<bullet>Hospitalized</bullet>
 		</patients>
 		<intervention>3% hypertonic saline (4 ml)
-			<bullet>Every 2 hours for 3 doses tapered to every 6 hours until discharge via nebulization</bullet>
+			<bullet>Every 2 hours for 3 doses tapered to every 6 hours until discharge</bullet>
 		</intervention>
 		<comparison>0.9% normal saline (4 ml)
-			<bullet>Every 2 hours for 3 doses tapered to every 6 hours until discharge via nebulization</bullet>
+			<bullet>Every 2 hours for 3 doses tapered to every 6 hours until discharge</bullet>
 		</comparison>
 		<outcome>
 			<bullet type="primary" url="http://pubmed.gov/1731571">Bronchiolitis Severity Score (Wang, 1992)</bullet>
@@ -207,16 +198,15 @@
 		<citation year="2011" pmid="21978929" journal_abbrev="Pulm Pharmacol Ther">Ipek</citation>
 		<design>Randomized controlled trial</design>
 		<patients total="120">
-			<description>bronchiolitis</description>
 			<bullet>Mean age 8.0 months</bullet>
 			<bullet>Emergency Department</bullet>
 		</patients>
 		<intervention>3% hypertonic saline (4 ml)
-			<bullet>With or without salbutamol 0.15 mg/kg via a compressor nebulizer</bullet>
+			<bullet>With or without salbutamol 0.15 mg/kg</bullet>
 			<bullet>Every 20 minutes for <emphasis>three total doses</emphasis></bullet>
 		</intervention>
 		<comparison>0.9% normal saline (4 ml)
-			<bullet>With or without salbutamol 0.15 mg/kg via a compressor nebulizer</bullet>
+			<bullet>With or without salbutamol 0.15 mg/kg</bullet>
 			<bullet>Every 20 minutes for <emphasis>three total doses</emphasis></bullet>
 		</comparison>
 		<outcome>
@@ -230,16 +220,15 @@
 		<citation year="2012" pmid="22697080" journal_abbrev="Int J Immunopathol Pharmacol">Miraglia Del Giudice</citation>
 		<design>Randomized controlled trial</design>
 		<patients total="109">
-			<description>bronchiolitis</description>
 			<bullet>Mean age 8.0 months</bullet>
 			<bullet>Hospitalized</bullet>
 		</patients>
 		<intervention>3% hypertonic saline (unclear dose)
-			<bullet>With 1.5 mg of epinephrine via nebulizer with continous oxygen flow at 6l/min</bullet>
+			<bullet>With 1.5 mg of epinephrine</bullet>
 			<bullet>Every 6 hours until discharge</bullet>
 		</intervention>
 		<comparison>0.9% normal saline (unclear dose)
-			<bullet>With 1.5 mg of epinephrine via nebulizer with continous oxygen flow at 6l/min</bullet>
+			<bullet>With 1.5 mg of epinephrine</bullet>
 			<bullet>Every 6 hours until discharge</bullet>
 		</comparison>
 		<outcome>
@@ -251,17 +240,16 @@
 	<study>
 		<citation year="2013" pmid="23502662" journal_abbrev="Indian Pediatr">Sharma</citation>
 		<design>Randomized controlled trial</design>
-		<patients total="248">
-			<description>bronchiolitis</description>
+		<patients total="109">
 			<bullet>Mean age 4.5 months</bullet>
 			<bullet>Hospitalized</bullet>
 		</patients>
 		<intervention>3% hypertonic saline (4 ml)
-			<bullet>With 2.5 mg salbutamol via nebulization along with supplemental oxygen</bullet>
+			<bullet>With 2.5 mg salbutamol</bullet>
 			<bullet>Every 4 hours until discharge</bullet>
 		</intervention>
 		<comparison>0.9% normal saline (4 ml)
-			<bullet>With 2.5 mg salbutamol via nebulization along with supplemental oxygen</bullet>
+			<bullet>With 2.5 mg salbutamol</bullet>
 			<bullet>Every 4 hours until discharge</bullet>
 		</comparison>
 		<outcome>
@@ -274,20 +262,19 @@
 		<citation year="2014" pmid="24344111" journal_abbrev="Pediatrics">Jacobs</citation>
 		<design>Randomized controlled trial</design>
 		<patients total="101">
-			<description>bronchiolitis</description>
 			<bullet>Mean age 4.5 months</bullet>
 			<bullet>Hospitalized</bullet>
 		</patients>
 		<intervention><emphasis>7% hypertonic saline (3 ml)</emphasis>
-			<bullet>With 0.5 mL 2.25% racemic epinephrine via nebulization along with supplemental oxygen</bullet>
+			<bullet>With 0.5 mL 2.25% racemic epinephrine</bullet>
 			<bullet>**Single dose** prior to repeat assessment and hospitalization decision; however continued every six hours until discharge</bullet>
 		</intervention>
 		<comparison>0.9% normal saline (3 ml)
-			<bullet>With 0.5 mL 2.25% racemic epinephrine via nebulization along with supplemental oxygen</bullet>
+			<bullet>With 0.5 mL 2.25% racemic epinephrine</bullet>
 			<bullet>**Single dose** prior to repeat assessment and hospitalization decision; however continued every six hours until discharge</bullet>
 		</comparison>
 		<outcome>
-			<bullet type="primary" url="http://pubmed.gov/1731571">Bronchiolitis Severity Score (Wang, 1992). **We could not extract these numbers, which were insignificant, for pooling.**</bullet>
+			<bullet type="primary" url="http://pubmed.gov/1731571">Bronchiolitis Severity Score (Wang, 1992). We used results from before admission. Results also available for children who were admitted.</bullet>
 			<bullet type="secondary">Hospitalization rate</bullet>
 			<bullet type="secondary">Length of hospital stay</bullet>
 		</outcome>
@@ -297,17 +284,16 @@
 		<citation year="2014" pmid="24862623" journal_abbrev="JAMA Pediatr">Wu</citation>
 		<design>Randomized controlled trial</design>
 		<patients total="447">
-			<description>bronchiolitis</description>
 			<bullet>Mean age 6.5 months</bullet>
 			<bullet>Emergency department</bullet>
 		</patients>
 		<intervention>3% hypertonic saline (4 ml)
-			<bullet>With albuterol sulfate via nebulization along with supplemental oxygen</bullet>
+			<bullet>With albuterol sulfate</bullet>
 			<bullet>Every 8 hours until discharge</bullet>
 		</intervention>
 		<comparison>0.9% normal saline (4 ml)
 			<bullet>With albuterol sulfate</bullet>
-			<bullet>Every 8 hours until discharge via nebulization along with supplemental oxygen</bullet>
+			<bullet>Every 8 hours until discharge</bullet>
 		</comparison>
 		<outcome>
 			<bullet type="primary">Hospitalization rate</bullet>
@@ -320,16 +306,15 @@
 		<citation year="2014" pmid="24862342" journal_abbrev="JAMA Pediatr">Florin</citation>
 		<design>Randomized controlled trial</design>
 		<patients total="62">
-			<description>bronchiolitis</description>
 			<bullet>Mean age 6.5 months</bullet>
 			<bullet>Emergency department</bullet>
 		</patients>
 		<intervention>3% hypertonic saline (4 ml)
-			<bullet>With albuterol sulfate via jet nebulization with oxygen flow rate of 8l/min</bullet>
+			<bullet>With albuterol sulfate</bullet>
 			<bullet>**Single dose** prior to repeat assessment and hospitalization decision; however continued every six hours until discharge</bullet>
 		</intervention>
 		<comparison>0.9% normal saline (4 ml)
-			<bullet>With albuterol sulfate via jet nebulization with oxygen flow rate of 8l/min</bullet>
+			<bullet>With albuterol sulfate</bullet>
 			<bullet>**Single dose** prior to repeat assessment and hospitalization decision; however continued every six hours until discharge</bullet>
 		</comparison>
 		<outcome>
@@ -340,22 +325,109 @@
 	</study>
 	<!-- Start of a new study -->
 	<study>
-		<citation year="2014" pmid="25389139" journal_abbrev="Thorax">Sabre</citation>
+		<citation year="2014" pmid="25574983" journal_abbrev="J Nepal Health Res Counc">Ojha</citation>
 		<design>Randomized controlled trial</design>
-		<patients total="291">
-			<description>bronchiolitis</description>
-			<bullet>Mean age 3.3 months</bullet>
-			<bullet>Hospitalized</bullet>
+		<patients total="72">
+			<bullet>Mean age 8.6 months</bullet>
+			<bullet>Hospital</bullet>
 		</patients>
 		<intervention>3% hypertonic saline (4 ml)
-			<bullet>via PARI sprint nebulizer with oxygen as required</bullet>
-			<bullet>every six hours until discharge</bullet>
+			<bullet>**Bronchodilator not noted**</bullet>
+			<bullet>Every 8 hours until discharge</bullet>
 		</intervention>
-		<comparison>Usual care
+		<comparison>0.9% normal saline (4 ml)
+			<bullet>**Bronchodilator not noted**</bullet>
+			<bullet>Every 8 hours until discharge</bullet>
 		</comparison>
 		<outcome>
-			<bullet type="primary">Length of stay</bullet>
-			<bullet type="secondary">others</bullet>
+			<bullet type="primary">Hospitalization rate</bullet>
+			<bullet type="secondary">Symptom scale based on RDAI</bullet>
+			<bullet type="secondary">Others</bullet>
+		</outcome>
+	</study>
+	<!-- Start of a new study -->
+	<study>
+		<citation year="2012" trialregistration="NCT01238848" journal_abbrev="ClinicalTrials.gov">Espelt</citation>
+		<design>Randomized controlled trial</design>
+		<patients total="82">
+			<bullet>Mean age 24 months</bullet>
+			<bullet>Hospital</bullet>
+		</patients>
+		<intervention>3% hypertonic saline (3 ml)
+			<bullet>With albuterol sulfate</bullet>
+			<bullet>Four times a day for five days</bullet>
+		</intervention>
+		<comparison>0.9% normal saline (3 ml)
+			<bullet>With albuterol sulfate</bullet>
+			<bullet>Four times a day for five days</bullet>
+		</comparison>
+		<outcome>
+			<bullet type="primary">Length of hospital stay</bullet>
+			<bullet type="secondary">Length of oxygen use</bullet>
+		</outcome>
+	</study>
+	<!-- Start of a new study -->
+	<study>
+		<citation year="2012" trialregistration="NCT01276821" journal_abbrev="ClinicalTrials.gov">Khanal</citation>
+		<design>Randomized controlled trial</design>
+		<patients total="99">
+			<bullet>Mean age 9.6 months</bullet>
+			<bullet>Outpatients and emergency department</bullet>
+		</patients>
+		<intervention>3% hypertonic saline (4 ml)
+			<bullet>With 1.5ml of 1:1,000 of L-epinephrine</bullet>
+			<bullet>Four times a day for five days</bullet>
+		</intervention>
+		<comparison>0.9% normal saline (4 ml)
+			<bullet>With 1.5ml of 1:1,000 of L-epinephrine</bullet>
+			<bullet>Four times a day for five days</bullet>
+		</comparison>
+		<outcome>
+			<bullet type="primary" url="http://pubmed.gov/1731571">Bronchiolitis Severity Score (Wang, 1992)</bullet>
+			<bullet type="secondary">Others</bullet>
+		</outcome>
+	</study>
+	<!-- Start of a new study -->
+	<study>
+		<citation year="2014" trialregistration="NCT01488448" journal_abbrev="ClinicalTrials.gov">Silver</citation>
+		<design>Randomized controlled trial</design>
+		<patients total="190">
+			<bullet>Mean age 4.1 months</bullet>
+			<bullet>Hospital</bullet>
+		</patients>
+		<intervention>3% hypertonic saline (4 ml)
+			<bullet>**Bronchodilator not noted**</bullet>
+			<bullet>Every four hours until discharge</bullet>
+		</intervention>
+		<comparison>0.9% normal saline (4 ml)
+			<bullet>**Bronchodilator not noted**</bullet>
+			<bullet>Every four hours until discharge</bullet>
+		</comparison>
+		<outcome>
+			<bullet type="primary">Length of hospital stay</bullet>
+			<bullet type="secondary">Hospital readmission</bullet>
+		</outcome>
+	</study>
+	<!-- Start of a new study -->
+	<study>
+		<citation year="2015" trialregistration="NCT02045238" journal_abbrev="ClinicalTrials.gov">Leme</citation>
+		<design>Randomized controlled trial</design>
+		<patients total="23">
+			<bullet>All less than 12 months old</bullet>
+			<bullet>Short Stay Ward</bullet>
+		</patients>
+		<intervention>3% hypertonic saline (amount note stated)
+			<bullet>**Without bronchodilators**</bullet>
+			<bullet>Initially every two hours, then every four hours until discharge</bullet>
+		</intervention>
+		<comparison>0.9% normal saline (amount note stated)
+			<bullet>**Without bronchodilators**</bullet>
+			<bullet>Initially every two hours, then every four hours until discharge</bullet>
+		</comparison>
+		<outcome>
+			<bullet type="primary">Hospitalization rate</bullet>
+			<bullet type="secondary">Length of hospital stay</bullet>
+			<bullet type="secondary">Others</bullet>
 		</outcome>
 	</study>
 	<!-- Leave the last line alone -->
