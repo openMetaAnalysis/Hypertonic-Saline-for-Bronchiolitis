@@ -432,6 +432,27 @@
 	</study>
 	<!-- Start of a new study -->
 	<study>
+		<citation year="2014" pmid="25574983" journal_abbrev="Tunis Med">Tinsa</citation>
+		<design>Randomized controlled trial</design>
+		<patients total="94">
+			<bullet>Mean age 3.19 months</bullet>
+			<bullet>Hospital</bullet>
+		</patients>
+		<intervention>5% hypertonic saline (2 ml)
+			<bullet>Epinephrine 0.1% (2 ml)</bullet>
+			<bullet>Every four hours until discharge</bullet>
+		</intervention>
+		<comparison>0.9% normal saline (4 ml)
+			<bullet>**Without bronchodilators**</bullet>
+			<bullet>Every four hours until discharge</bullet>
+		</comparison>
+		<outcome>
+			<bullet type="primary">Length of hospital stay</bullet>
+			<bullet type="primary" url="http://pubmed.gov/1731571">Bronchiolitis Severity Score (Wang, 1992)</bullet>
+		</outcome>
+	</study>
+	<!-- Start of a new study -->
+	<study>
 		<citation year="2015" trialregistration="NCT02045238" journal_abbrev="ClinicalTrials.gov">Leme</citation>
 		<design>Randomized controlled trial</design>
 		<patients total="23">
