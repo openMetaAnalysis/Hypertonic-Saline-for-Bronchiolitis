@@ -14,3 +14,8 @@ Ojha, 2014, 25574983, 1.87(0.96), 36, 1.82(1.18), 36, Length of stay less than 3
 Silver, 2014, NCT01488448, 2.0(1.48), 93, 2.0(1.33), 97, Length of stay less than 3 days,
 Espelt, 2012, NCT01238848,  5.8(2.7), 37, 5.47(2.1), 45, Length of stay more than 3 days,
 Tinsa, 2014, 25574983, 3.5(1.97),37,4.48(3.81),26, Length of stay more than 3 days,
+,,,,,,,,
+,,,,,,,To make forest plot:,
+,,,,,,,Click 'Raw' view of this file,
+,,,,,,,Copy rows of data without column names,
+,,,,,,,Paste into one of the editors at https://openmetaanalysis.ocpu.io,
