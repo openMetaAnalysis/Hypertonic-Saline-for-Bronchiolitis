@@ -222,6 +222,17 @@
 </study>
 <!-- start of a new study -->
 <study>
+<citation year="2014" pmid="25867149" trialregistration="" journal_abbrev="Tunis Med" totalsubjects="94" >Tinsa</citation>
+ <randomization explanation="">Low risk</randomization>
+ <allocation explanation="">Low risk</allocation>
+ <blinding_people explanation="">Low risk</blinding_people>
+ <blinding_assessment explanation="">Low risk</blinding_assessment>
+ <attrition explanation="Consort flow diagram not provided">Unclear risk</attrition>
+ <selective_reporting explanation="Original protocol not available at a website for trial registration.">Unclear risk</selective_reporting>
+ <other_biases> risk</other_biases>
+</study>
+<!-- start of a new study -->
+<study>
   <citation year="2015" trialregistration="NCT02045238" journal_abbrev="ClinicalTrials.gov" totalsubjects="23">Leme</citation>
   <randomization explanation="Method of randomization not described">Unclear risk</randomization>
   <allocation explanation="Method of concealing allocation not stated">Unclear risk</allocation>
