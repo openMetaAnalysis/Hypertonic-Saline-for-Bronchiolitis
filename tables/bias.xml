@@ -242,5 +242,27 @@
   <selective_reporting>Low risk</selective_reporting>
   <other_biases>Low risk</other_biases>
 </study>
+<!-- start of a new study -->
+<study>
+  <citation year="2015" pmid="26334188" trialregistration="" journal_abbrev="Pediatr Pulmonol" totalsubjects="68">Flores</citation>
+  <randomization explanation="">Low risk</randomization>
+  <allocation explanation="">Low risk</allocation>
+  <blinding_people>Low risk</blinding_people>
+  <blinding_assessment>Low risk</blinding_assessment>
+  <attrition explanation="">Low risk</attrition>
+  <selective_reporting explanation="Original protocol not available at a website for trial registration.">Unclear risk</selective_reporting>
+  <other_biases>Low risk</other_biases>
+</study>
+<!-- start of a new study -->
+<study>
+  <citation year="2015" pmid="26357896" trialregistration="NCT01276821" journal_abbrev="ClinicalTrials.gov" totalsubjects="100">Khanal</citation>
+  <randomization explanation="">Low risk</randomization>
+  <allocation explanation="">Low risk</allocation>
+  <blinding_people>Low risk</blinding_people>
+  <blinding_assessment>Low risk</blinding_assessment>
+  <attrition explanation="">Low risk</attrition>
+  <selective_reporting>Low risk</selective_reporting>
+  <other_biases explanation="Criteria for Readiness for discharge not specified. Rates of actual discharge not reported.">Unclear risk</other_biases>
+</study>
 <!-- Leave this bottom line -->
 </included>
