@@ -123,13 +123,13 @@
 </study>
 <!-- start of a new study -->
 <study>
-  <citation year="2013" pmid="23502662" journal_abbrev="Indian Pediatr" totalsubjects="109">Sharma</citation>
+  <citation year="2013" trialregistration="NCT01871857" pmid="23502662" journal_abbrev="Indian Pediatr" totalsubjects="109">Sharma</citation>
   <randomization>Low risk</randomization>
   <allocation>Unclear risk</allocation>
   <blinding_people>Unclear risk</blinding_people>
   <blinding_assessment>Low risk</blinding_assessment>
   <attrition>Low risk</attrition>
-  <selective_reporting explanation="Original protocol not available at a website for trial registration.">Unclear risk</selective_reporting>
+  <selective_reporting explanation="">Low risk</selective_reporting>
   <other_biases>Low risk</other_biases>
 </study>
 <!-- start of a new study -->
