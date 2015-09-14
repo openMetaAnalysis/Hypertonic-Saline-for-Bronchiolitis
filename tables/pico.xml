@@ -217,7 +217,7 @@
 	</study>
 	<!-- Start of a new study -->
 	<study>
-		<citation year="2012" pmid="22697080" journal_abbrev="Int J Immunopathol Pharmacol">Miraglia Del Giudice</citation>
+		<citation year="2012" pmid="22697080" trialregistration="NCTO1300325" journal_abbrev="Int J Immunopathol Pharmacol">Miraglia Del Giudice</citation>
 		<design>Randomized controlled trial</design>
 		<patients total="109">
 			<bullet>Mean age 8.0 months</bullet>
