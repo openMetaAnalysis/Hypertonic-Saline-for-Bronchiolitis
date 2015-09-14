@@ -145,7 +145,7 @@
 </study>
 <!-- start of a new study -->
 <study>
-  <citation year="2014" pmid="24862623" journal_abbrev="JAMA Pediatr" totalsubjects="447">Wu</citation>
+  <citation year="2014" trialregistration="NCT00619918" pmid="24862623" journal_abbrev="JAMA Pediatr" totalsubjects="447">Wu</citation>
   <randomization>Low risk</randomization>
   <allocation>Low risk</allocation>
   <blinding_people>Low risk</blinding_people>
@@ -156,7 +156,7 @@
 </study>
 <!-- start of a new study -->
 <study>
-  <citation year="2014" pmid="24862342" journal_abbrev="JAMA Pediatr" totalsubjects="62">Florin</citation>
+  <citation year="2014" pmid="24862342" trialregistration="NCT01247064" journal_abbrev="JAMA Pediatr" totalsubjects="62">Florin</citation>
   <randomization>Low risk</randomization>
   <allocation>Low risk</allocation>
   <blinding_people>Low risk</blinding_people>
@@ -173,7 +173,7 @@
   <blinding_people>Low risk</blinding_people>
   <blinding_assessment>Low risk</blinding_assessment>
   <attrition explanation="13% attrition rate, although not imbalanced. These children were not included in analyses.">Unclear risk</attrition>
-  <selective_reporting explanation="Trial registration not indicated">Unclear risk</selective_reporting>
+  <selective_reporting explanation="Original protocol not available at a website for trial registration.">Unclear risk</selective_reporting>
   <other_biases>Low risk</other_biases>
 </study>
 <!-- start of a new study -->
@@ -184,7 +184,7 @@
   <blinding_people>Low risk</blinding_people>
   <blinding_assessment>Low risk</blinding_assessment>
   <attrition>Low risk</attrition>
-  <selective_reporting explanation="Trial registration not indicated">Unclear risk</selective_reporting>
+  <selective_reporting explanation="Original protocol not available at a website for trial registration.">Unclear risk</selective_reporting>
   <other_biases>Low risk</other_biases>
 </study>
 <!-- start of a new study -->
