@@ -131,7 +131,7 @@
 	</study>
 	<!-- Start of a new study -->
 	<study>
-		<citation year="2010" pmid="20646715" journal_abbrev="J Pediatr">Al Ansari</citation>
+		<citation year="2010" pmid="20646715" trialregistration="NCT01016249" journal_abbrev="J Pediatr">Al Ansari</citation>
 		<design>Randomized controlled trial</design>
 		<patients total="171">
 			<bullet>Mean age 3.1 months</bullet>
@@ -148,7 +148,7 @@
 		<outcome>
 			<bullet type="primary" url="http://pubmed.gov/1731571">Bronchiolitis Severity Score (Wang, 1992)</bullet>
 			<bullet type="primary">Hospitalization rate</bullet>
-			<bullet type="secondary">Others</bullet>
+			<bullet type="secondary">Others, including length of stay although it was not listed at trial registration</bullet>
 		</outcome>
 	</study>
 	<!-- Start of a new study -->
