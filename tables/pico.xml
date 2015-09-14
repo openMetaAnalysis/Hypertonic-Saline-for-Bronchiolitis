@@ -473,5 +473,51 @@
 			<bullet type="secondary">Others</bullet>
 		</outcome>
 	</study>
+	<!-- Start of a new study -->
+	<study>
+		<citation year="2015" pmid="26334188" trialregistration="" journal_abbrev="Pediatr Pulmonol">Flores</citation>
+		<design>Randomized controlled trial</design>
+		<patients total="68">
+			<bullet>Age less than one year</bullet>
+			<bullet>Hospital</bullet>
+			<bullet>Severity: baseline not reported</bullet>
+		</patients>
+		<intervention>3% hypertonic saline (3 ml)
+			<bullet>0.25 ml (1.25 mg) of salbutamol</bullet>
+			<bullet>Repeated every 6 hours until discharge</bullet>
+		</intervention>
+		<comparison>0.9% normal saline (3 ml)
+			<bullet>0.25 ml (1.25 mg) of salbutamol</bullet>
+			<bullet>Repeated every 6 hours until discharge</bullet>
+		</comparison>
+		<outcome>
+			<bullet type="secondary">Length of hospital stay/bullet>
+			<bullet type="primary" url="http://pubmed.gov/1731571">Bronchiolitis Severity Score (Wang, 1992)</bullet>
+			<bullet type="secondary">Others</bullet>
+		</outcome>
+	</study>
+	<!-- Start of a new study -->
+	<study>
+		<citation year="2015" pmid="26357896" trialregistration="NCT01276821" journal_abbrev="BMC Pediatr">Khanal</citation>
+		<design>Randomized controlled trial</design>
+		<patients total="100">
+			<bullet>Age 6 weeks to 2 years</bullet>
+			<bullet>Emergency Room and Out-Patient Clinic</bullet>
+			<bullet>Severity: Wang = 5.3</bullet>
+		</patients>
+		<intervention>3% hypertonic saline (4 ml)
+			<bullet>L-Epinephrine 1.5 mg</bullet>
+			<bullet>Repeated once after 30 minutes</bullet>
+		</intervention>
+		<comparison>0.9% normal saline (4 ml)
+			<bullet>L-Epinephrine 1.5 mg<</bullet>
+			<bullet>Repeated once after 30 minutes</bullet>
+		</comparison>
+		<outcome>
+			<bullet type="primary" url="http://pubmed.gov/1731571">Bronchiolitis Severity Score (Wang, 1992)</bullet>
+			<bullet type="secondary">Readiness for discharge (criteria not stated)</bullet>
+			<bullet type="secondary">Others</bullet>
+		</outcome>
+	</study>
 	<!-- Leave the last line alone -->
 </included>
