@@ -68,6 +68,17 @@
 </study>
 <!-- start of a new study -->
 <study>
+  <citation year="2010" pmid="19674354" journal_abbrev="Pediatr Int" totalsubjects="93">Luo</citation>
+  <randomization>High risk</randomization>
+  <allocation>High risk</allocation>
+  <blinding_people>Unclear risk</blinding_people>
+  <blinding_assessment>Unclear risk</blinding_assessment>
+  <attrition>Low risk</attrition>
+  <selective_reporting explanation="Original protocol not available at a website for trial registration.">Unclear risk</selective_reporting>
+  <other_biases>Low risk</other_biases>
+</study>
+<!-- start of a new study -->
+<study>
   <citation year="2010" pmid="20646715" journal_abbrev="J Pediatr" totalsubjects="171">Al Ansari</citation>
   <randomization>Low risk</randomization>
   <allocation>Low risk</allocation>
@@ -79,24 +90,13 @@
 </study>
 <!-- start of a new study -->
 <study>
-  <citation year="2010" pmid="19674354" journal_abbrev="Pediatr Int" totalsubjects="93">Luo</citation>
-  <randomization>High risk</randomization>
-  <allocation>High risk</allocation>
-  <blinding_people>Unclear risk</blinding_people>
-  <blinding_assessment>Unclear risk</blinding_assessment>
-  <attrition>Low risk</attrition>
-  <selective_reporting>Low risk</selective_reporting>
-  <other_biases>Low risk</other_biases>
-</study>
-<!-- start of a new study -->
-<study>
   <citation year="2011" pmid="20636429" journal_abbrev="Clin Microbiol Infect" totalsubjects="126">Luo</citation>
   <randomization>Low risk</randomization>
   <allocation>Low risk</allocation>
   <blinding_people>Low risk</blinding_people>
   <blinding_assessment>Low risk</blinding_assessment>
   <attrition>Low risk</attrition>
-  <selective_reporting>Low risk</selective_reporting>
+  <selective_reporting explanation="Original protocol not available at a website for trial registration.">Unclear risk</selective_reporting>
   <other_biases>Low risk</other_biases>
 </study>
 <!-- start of a new study -->
@@ -107,12 +107,12 @@
   <blinding_people>Unclear risk</blinding_people>
   <blinding_assessment>Unclear risk</blinding_assessment>
   <attrition>Low risk</attrition>
-  <selective_reporting>Low risk</selective_reporting>
+  <selective_reporting explanation="Original protocol not available at a website for trial registration.">Unclear risk</selective_reporting>
   <other_biases>Low risk</other_biases>
 </study>
 <!-- start of a new study -->
 <study>
-  <citation year="2012" pmid="22697080" journal_abbrev="Int J Immunopathol Pharmacol" totalsubjects="109">Miraglia Del Giudice</citation>
+  <citation year="2012" pmid="22697080" trialregistration="NCTO1300325" journal_abbrev="Int J Immunopathol Pharmacol" totalsubjects="109">Miraglia Del Giudice</citation>
   <randomization>Low risk</randomization>
   <allocation>Unclear risk</allocation>
   <blinding_people>Low risk</blinding_people>
