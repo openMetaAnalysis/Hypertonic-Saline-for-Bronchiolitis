@@ -281,7 +281,7 @@
 	</study> 
 	<!-- Start of a new study -->
 	<study>
-		<citation year="2014" pmid="24862623" journal_abbrev="JAMA Pediatr">Wu</citation>
+		<citation year="2014" trialregistration="NCT00619918" pmid="24862623" journal_abbrev="JAMA Pediatr">Wu</citation>
 		<design>Randomized controlled trial</design>
 		<patients total="447">
 			<bullet>Mean age 6.5 months</bullet>
@@ -303,7 +303,7 @@
 	</study>
 	<!-- Start of a new study -->
 	<study>
-		<citation year="2014" pmid="24862342" journal_abbrev="JAMA Pediatr">Florin</citation>
+		<citation year="2014" pmid="24862342" trialregistration="NCT01247064" journal_abbrev="JAMA Pediatr">Florin</citation>
 		<design>Randomized controlled trial</design>
 		<patients total="62">
 			<bullet>Mean age 6.5 months</bullet>
