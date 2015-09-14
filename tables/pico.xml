@@ -390,27 +390,6 @@
 	</study>
 	<!-- Start of a new study -->
 	<study>
-		<citation year="2012" trialregistration="NCT01276821" journal_abbrev="ClinicalTrials.gov">Khanal</citation>
-		<design>Randomized controlled trial</design>
-		<patients total="99">
-			<bullet>Mean age 9.6 months</bullet>
-			<bullet>Outpatients and emergency department</bullet>
-		</patients>
-		<intervention>3% hypertonic saline (4 ml)
-			<bullet>With 1.5ml of 1:1,000 of L-epinephrine</bullet>
-			<bullet>Four times a day for five days</bullet>
-		</intervention>
-		<comparison>0.9% normal saline (4 ml)
-			<bullet>With 1.5ml of 1:1,000 of L-epinephrine</bullet>
-			<bullet>Four times a day for five days</bullet>
-		</comparison>
-		<outcome>
-			<bullet type="primary" url="http://pubmed.gov/1731571">Bronchiolitis Severity Score (Wang, 1992)</bullet>
-			<bullet type="secondary">Others</bullet>
-		</outcome>
-	</study>
-	<!-- Start of a new study -->
-	<study>
 		<citation year="2014" trialregistration="NCT01488448" journal_abbrev="ClinicalTrials.gov">Silver</citation>
 		<design>Randomized controlled trial</design>
 		<patients total="190">
