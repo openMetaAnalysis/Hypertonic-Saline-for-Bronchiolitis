@@ -491,7 +491,7 @@
 			<bullet>Repeated every 6 hours until discharge</bullet>
 		</comparison>
 		<outcome>
-			<bullet type="secondary">Length of hospital stay/bullet>
+			<bullet type="secondary">Length of hospital stay</bullet>
 			<bullet type="primary" url="http://pubmed.gov/1731571">Bronchiolitis Severity Score (Wang, 1992)</bullet>
 			<bullet type="secondary">Others</bullet>
 		</outcome>
@@ -510,7 +510,7 @@
 			<bullet>Repeated once after 30 minutes</bullet>
 		</intervention>
 		<comparison>0.9% normal saline (4 ml)
-			<bullet>L-Epinephrine 1.5 mg<</bullet>
+			<bullet>L-Epinephrine 1.5 mg</bullet>
 			<bullet>Repeated once after 30 minutes</bullet>
 		</comparison>
 		<outcome>
