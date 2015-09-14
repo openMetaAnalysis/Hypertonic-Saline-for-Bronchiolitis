@@ -200,17 +200,6 @@
 </study>
 <!-- start of a new study -->
 <study>
-  <citation year="2012" trialregistration="NCT01276821" journal_abbrev="ClinicalTrials.gov" totalsubjects="99">Khanal</citation>
-  <randomization>Low risk</randomization>
-  <allocation>Low risk</allocation>
-  <blinding_people>Low risk</blinding_people>
-  <blinding_assessment>Low risk</blinding_assessment>
-  <attrition>Low risk</attrition>
-  <selective_reporting>Low risk</selective_reporting>
-  <other_biases>Low risk</other_biases>
-</study>
-<!-- start of a new study -->
-<study>
   <citation year="2014" trialregistration="NCT01488448" journal_abbrev="ClinicalTrials.gov" totalsubjects="190">Silver</citation>
   <randomization explanation="Method of randomization not described">Unclear risk</randomization>
   <allocation explanation="Method of concealing allocation not stated">Unclear risk</allocation>
