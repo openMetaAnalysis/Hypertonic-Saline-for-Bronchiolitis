@@ -109,7 +109,7 @@
 	</study>
 	<!-- Start of a new study -->
 	<study>
-		<citation year="2009" pmid="19884591" journal_abbrev="J Arch Pediat">Grewal</citation>
+		<citation year="2009" pmid="19884591" trialregistration="ISRCTN66632312" journal_abbrev="J Arch Pediat">Grewal</citation>
 		<design>Randomized controlled trial</design>
 		<patients total="48">
 			<bullet>Mean age 5 months</bullet>
@@ -125,7 +125,7 @@
 		</comparison>
 		<outcome>
 			<bullet type="primary" url="http://www.wikidoc.org/index.php/Respiratory_distress_assessment_instrument">Change in Respiratory distress assessment index (RDAI).</bullet>
-			<bullet type="primary">Hospitalization rate</bullet>
+			<bullet type="secondary">Hospitalization rate</bullet>
 			<bullet type="secondary">Others</bullet>
 		</outcome>
 	</study>
