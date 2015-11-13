@@ -10,7 +10,7 @@ Search strategy is **Terms: hypertonic random* | Studies With Results | Conditio
 
 Receive notifications about possible studies when indexed at PubMed
 -------------------------
-Search strategy is **hypertonic saline AND random* AND bonchiolitis**:
+Search strategy is **hypertonic saline AND random* AND bronchiolitis**:
 
 * [Search now and test strategy at PubMed](http://www.ncbi.nlm.nih.gov/pubmed?cmd=Search&term=hypertonic%20saline%20AND%20random*%20AND%20bronchiolitis)
 * Receive updates by [email](https://feedburner.google.com/fb/a/mailverify?uri=HypertonicSaline-Bonchiolitis) or [RSS](http://feeds.feedburner.com/HypertonicSaline-Bonchiolitis)
