@@ -1,13 +1,13 @@
 ,Current,Zhang. 2015,"Everard , 2015","Badgett, 2015","Zhang (Cochrane), 2013"
 ,,PMID: 26416925,PMID: 26295732,PMID: 26099054,PMID: 23900970
-Length of stay,-0.65 d*,-0.45 d,- 0.48 d,,- 1.15 d
-Heterogeneity,64%,82%,78%,,30%
+Length of stay,-0.65 d*,-0.45 d,- 0.48 d,-0.77 d*,- 1.15 d
+Heterogeneity,64%,82%,78%,61%,30%
 ,,,,,
-Admission,0.7 †,0.8,NA,,0.63
-Heterogeneity,0%,2.40%,,,0%
+Admission,0.7 †,0.8,NA,0.77,0.63
+Heterogeneity,0%,2.40%,,0%,0%
 ,,,,,
-Symptoms, - 0.43 SMD †,,- 1.36 MD *,, -0.88 MD *
-Heterogeneity,76%,,0%,,84%
+Symptoms, - 0.43 SMD †,,- 1.36 MD *,- 0.44 SMD †, -0.88 MD *
+Heterogeneity,76%,,0%,78%,84%
 ,,,,,
-Comments,* Among patients with LOS > 3d,Concluded that HS is 'safe and potentially effective',* Only included studies of CSS,,
-,† In studies of > 1 dose,,,,* Only included studies of CSS
+Comments,* Among patients with LOS > 3d,Concluded that HS is 'safe and potentially effective',* Only included studies of CSS,* Among patients with LOS > 3d,* Only included studies of CSS
+,† In studies of > 1 dose,,,† In studies of > 1 dose,
