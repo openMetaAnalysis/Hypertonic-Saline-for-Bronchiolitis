@@ -1,4 +1,5 @@
-**If you want to read this meta-analysis:**
+Hypertonic saline for bronchiolitis
+=================================
 
 * Go to the long url near the top of this page that starts with 'openmetaanalysis.github.io/'
 * Or go to http://openmetaanalysis.github.io/
@@ -19,14 +20,16 @@ Text files:
 * [Clinical summary and references](../../tree/gh-pages/index.html)
 
 Images (hint: use Git Client for [Windows](https://windows.github.com/) or [Mac](https://mac.github.com/) to upload these from your computer):
-* [Forest plots](../../tree/master/forest-plots/)
-* [GRADE Profiles](../../tree/master/GRADE-Profiles)
-* [Metaregression plots](../../tree/master/metaregression) (optional)
-
-[Methods](https://github.com/openMetaAnalysis/_Methods/blob/master/README.md) used by these reviews.
+* [Forest plots](../../tree/master/files/forest-plots/)
+* [GRADE Profiles](../../tree/master/files/GRADE-Profiles)
+* [Metaregression plots](../../tree/master/files/metaregression) (optional)
 
 **Do you want to contribute:**
 
 * '[Fork](../../fork)' this repository
 * Make your edits
 * Initiate a '[Pull request](../../compare/)' for your changes to be merged.
+
+-------------------------------
+[Cite and use this content](https://github.com/openMetaAnalysis/openMetaAnalysis.github.io/blob/master/reusing.MD)  - [Edit this page](../../edit/master/README.md) - [History](../../commits/master/README.md)  - 
+[Issues and comments](../../issues?q=is%3Aboth+is%3Aissue)
